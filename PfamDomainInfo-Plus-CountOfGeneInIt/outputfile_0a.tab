@@ -1,0 +1,11 @@
+geneid	start	end	pfam_name	pfam_id
+bcinT_11378	382	795	Bacterial alpha-L-rhamnosidase	pfam05592
+bcinT_09937	242	296	GTP1/OBG	pfam01018
+bcinT_09937	75	172	GTP1/OBG	pfam01018
+bcinT_09937	299	421	50S ribosome-binding GTPase	pfam01926
+bcinT_07404	193	599	Sugar (and other) transporter	pfam00083
+bcinT_10439	54	496	Amino acid permease	pfam13520
+bcinT_09259	409	459	Phorbol esters/diacylglycerol binding domain (C1 domain)	pfam00130
+bcinT_09259	17	108	Fes/CIP4, and EFC/F-BAR homology domain	pfam00611
+bcinT_09259	586	629	SH3 domain	pfam00018
+bcinT_09259	682	731	Variant SH3 domain	pfam14604

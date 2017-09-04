@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 #USAGE: python get_PopStatus_from_MeanQ.py test.meanQ > OutPutfile_name.PopStatus
+## This is to assign our sample/accessions to the related population, based on result of fastSTRUCTURE/STRUCTURE: file.meanQ. This code will assign each sample to the porelated pulation if %70 or more belongs to that particular population, otherwise will consider it an admixed accession. You can change the CUT_OFF value below to make it more strict or lenient.  
 
 import sys
 import itertools

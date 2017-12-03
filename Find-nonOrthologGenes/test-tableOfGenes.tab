@@ -1,0 +1,1000 @@
+geneName	CHR	geneStart	geneEnd	orientation	geneLength	effectorP	signalP	cazym	pfam
+SLangusT_00001	Scaffold_1	616	10314	-	9698.0	NO	NO	NO	Repeating coiled region of VPS13_pfam16910;Autophagy-related protein C terminal domain_pfam09333;Vacuolar sorting-associated protein 13, N-terminal_pfam16908;Vacuolar-sorting-associated 13 protein C-terminal_pfam16909;SHR-binding domain of vacuolar-sorting associated protein 13_pfam06650;N-terminal region of Chorein or VPS13_pfam12624
+SLangusT_00002	Scaffold_1	11388	12524	+	1136.0	NO	NO	NO	Protein of unknown function (DUF3429)_pfam11911
+SLangusT_00003	Scaffold_1	16613	17029	+	416.0	0.815	NO	NO	NO
+SLangusT_00004	Scaffold_1	18102	18655	+	553.0	NO	NO	NO	NO
+SLangusT_00005	Scaffold_1	19573	21766	+	2193.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00006	Scaffold_1	22452	24085	-	1633.0	NO	NO	NO	Histidine phosphatase superfamily (branch 1)_pfam00300
+SLangusT_00007	Scaffold_1	24661	25257	+	596.0	NO	NO	NO	Protein of unknown function (DUF1168)_pfam06658
+SLangusT_00008	Scaffold_1	25491	27407	-	1916.0	NO	NO	NO	TCP-1/cpn60 chaperonin family_pfam00118
+SLangusT_00009	Scaffold_1	31439	32674	-	1235.0	NO	NO	NO	Phosphotransferase enzyme family_pfam01636
+SLangusT_00010	Scaffold_1	35176	36644	-	1468.0	0.996	NO	NO	NO
+SLangusT_00011	Scaffold_1	39263	41440	-	2177.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00012	Scaffold_1	43815	45258	-	1443.0	NO	NO	NO	WD domain, G-beta repeat_pfam00400;Sof1-like domain_pfam04158
+SLangusT_00013	Scaffold_1	45570	46995	+	1425.0	NO	NO	NO	PCI domain_pfam01399
+SLangusT_00014	Scaffold_1	47740	52146	-	4406.0	NO	NO	NO	NO
+SLangusT_00015	Scaffold_1	53769	54698	+	929.0	NO	NO	NO	NO
+SLangusT_00016	Scaffold_1	55128	55748	-	620.0	1.0	NO	NO	Glutathione-dependent formaldehyde-activating enzyme_pfam04828
+SLangusT_00017	Scaffold_1	56155	56495	+	340.0	0.967	NO	NO	NO
+SLangusT_00018	Scaffold_1	59694	60216	+	522.0	NO	NO	NO	NO
+SLangusT_00019	Scaffold_1	62756	63077	+	321.0	NO	SignalP_EUK	NO	NO
+SLangusT_00020	Scaffold_1	64587	65196	+	609.0	0.969	NO	NO	NO
+SLangusT_00021	Scaffold_1	68878	69293	-	415.0	NO	NO	NO	NO
+SLangusT_00022	Scaffold_1	73301	76669	+	3368.0	NO	NO	NO	C2 domain_pfam00168;Phosphatidylinositol-specific phospholipase C, X domain_pfam00388;Phosphatidylinositol-specific phospholipase C, Y domain_pfam00387
+SLangusT_00023	Scaffold_1	78577	80346	-	1769.0	NO	NO	NO	Fungal specific transcription factor domain_pfam11951
+SLangusT_00024	Scaffold_1	81490	83456	+	1966.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00025	Scaffold_1	84555	86587	-	2032.0	NO	NO	NO	Amino acid permease_pfam00324
+SLangusT_00026	Scaffold_1	88864	90130	+	1266.0	NO	NO	NO	NO
+SLangusT_00027	Scaffold_1	90877	91777	+	900.0	NO	NO	NO	Domain of unknown function (DUF1771)_pfam08590;Smr domain_pfam01713
+SLangusT_00028	Scaffold_1	92885	95267	+	2382.0	NO	NO	NO	Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172;Fungal specific transcription factor domain_pfam04082
+SLangusT_00029	Scaffold_1	101879	102142	-	263.0	NO	NO	NO	NO
+SLangusT_00030	Scaffold_1	103310	104138	-	828.0	NO	NO	NO	NO
+SLangusT_00031	Scaffold_1	105415	105849	-	434.0	0.949	NO	NO	NO
+SLangusT_00032	Scaffold_1	106709	108271	+	1562.0	NO	NO	NO	NO
+SLangusT_00033	Scaffold_1	109616	110585	+	969.0	NO	NO	NO	NO
+SLangusT_00034	Scaffold_1	111619	112135	-	516.0	NO	NO	NO	NO
+SLangusT_00035	Scaffold_1	112522	115411	+	2889.0	NO	NO	NO	tRNA synthetases class I (C) catalytic domain_pfam01406
+SLangusT_00036	Scaffold_1	115477	115967	-	490.0	NO	NO	NO	NO
+SLangusT_00037	Scaffold_1	116911	118365	-	1454.0	NO	NO	NO	Sodium/hydrogen exchanger family_pfam00999
+SLangusT_00038	Scaffold_1	118732	120548	+	1816.0	NO	NO	NO	Sodium/hydrogen exchanger family_pfam00999
+SLangusT_00039	Scaffold_1	121975	124084	-	2109.0	NO	NO	NO	MBOAT, membrane-bound O-acyltransferase family_pfam03062
+SLangusT_00040	Scaffold_1	124537	126176	-	1639.0	NO	NO	NO	Cytochrome P450_pfam00067
+SLangusT_00041	Scaffold_1	128033	129509	+	1476.0	NO	SignalP_EUK	NO	NO
+SLangusT_00042	Scaffold_1	130255	131806	-	1551.0	NO	SignalP_EUK	GH5.hmm	Cellulase (glycosyl hydrolase family 5)_pfam00150
+SLangusT_00043	Scaffold_1	133473	134681	-	1208.0	NO	NO	NO	NO
+SLangusT_00044	Scaffold_1	134935	135812	+	877.0	NO	NO	NO	FRG1-like domain_pfam06229
+SLangusT_00045	Scaffold_1	136277	137652	+	1375.0	NO	NO	NO	WD domain, G-beta repeat_pfam00400
+SLangusT_00046	Scaffold_1	138022	140720	+	2698.0	NO	SignalP_EUK	NO	Sel1 repeat_pfam08238
+SLangusT_00047	Scaffold_1	142350	142828	-	478.0	0.873	NO	NO	Helix-loop-helix DNA-binding domain_pfam00010
+SLangusT_00048	Scaffold_1	143915	145201	+	1286.0	0.992	SignalP_EUK	NO	NO
+SLangusT_00049	Scaffold_1	147663	148663	+	1000.0	NO	NO	NO	Maf-like protein_pfam02545
+SLangusT_00050	Scaffold_1	149289	152482	-	3193.0	NO	SignalP_EUK	NO	Heterokaryon incompatibility protein Het-C_pfam07217
+SLangusT_00051	Scaffold_1	154514	155988	+	1474.0	NO	NO	NO	HMG (high mobility group) box_pfam00505
+SLangusT_00052	Scaffold_1	157121	157442	+	321.0	1.0	NO	NO	NO
+SLangusT_00053	Scaffold_1	159649	161830	+	2181.0	NO	SignalP_EUK	GH71.hmm	Glycosyl hydrolase family 71_pfam03659
+SLangusT_00054	Scaffold_1	162651	165996	-	3345.0	NO	NO	NO	NO
+SLangusT_00055	Scaffold_1	167517	169930	-	2413.0	NO	NO	NO	Fungal specific transcription factor domain_pfam04082;Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172
+SLangusT_00056	Scaffold_1	173002	179510	-	6508.0	NO	NO	NO	Beta-ketoacyl synthase, N-terminal domain_pfam00109;Starter unit:ACP transacylase in aflatoxin biosynthesis_pfam16073;Methyltransferase domain_pfam08242;Ketoacyl-synthetase C-terminal extension_pfam16197;Phosphopantetheine attachment site_pfam00550;Polyketide synthase dehydratase_pfam14765;Beta-ketoacyl synthase, C-terminal domain_pfam02801;Acyl transferase domain_pfam00698
+SLangusT_00057	Scaffold_1	180083	180895	-	812.0	NO	NO	NO	Serine hydrolase (FSH1)_pfam03959
+SLangusT_00058	Scaffold_1	183392	183762	-	370.0	NO	NO	NO	NO
+SLangusT_00059	Scaffold_1	184526	185124	+	598.0	0.882	NO	NO	Phosphatidylethanolamine-binding protein_pfam01161
+SLangusT_00060	Scaffold_1	185839	187443	-	1604.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00061	Scaffold_1	188861	189859	+	998.0	NO	SignalP_EUK	NO	NO
+SLangusT_00062	Scaffold_1	193145	195975	-	2830.0	NO	NO	NO	Amidohydrolase family_pfam01979;Urease alpha-subunit, N-terminal domain_pfam00449;Urease beta subunit_pfam00699;Urease, gamma subunit_pfam00547
+SLangusT_00063	Scaffold_1	196720	198676	-	1956.0	NO	NO	NO	Ring finger domain_pfam13639
+SLangusT_00064	Scaffold_1	200537	202671	+	2134.0	NO	NO	NO	Histone acetyltransferases subunit 3_pfam10198
+SLangusT_00065	Scaffold_1	203916	206506	+	2590.0	NO	NO	NO	NO
+SLangusT_00066	Scaffold_1	206935	210710	+	3775.0	NO	NO	NO	DNA repair metallo-beta-lactamase_pfam07522
+SLangusT_00067	Scaffold_1	218323	219318	+	995.0	NO	NO	NO	NO
+SLangusT_00068	Scaffold_1	223137	224630	-	1493.0	NO	NO	NO	Acetyltransferase (GNAT) family_pfam00583;Bromodomain_pfam00439
+SLangusT_00069	Scaffold_1	225179	225522	+	343.0	NO	NO	NO	NO
+SLangusT_00070	Scaffold_1	225697	226778	+	1081.0	NO	NO	NO	Repair protein Rad1/Rec1/Rad17_pfam02144
+SLangusT_00071	Scaffold_1	228599	229547	-	948.0	NO	NO	NO	NO
+SLangusT_00072	Scaffold_1	229887	231497	-	1610.0	NO	NO	NO	tRNA synthetase class II core domain (G, H, P, S and T)_pfam00587;Anticodon binding domain_pfam03129
+SLangusT_00073	Scaffold_1	232059	233782	+	1723.0	NO	NO	NO	NO
+SLangusT_00074	Scaffold_1	234258	235949	+	1691.0	NO	NO	NO	NO
+SLangusT_00075	Scaffold_1	238018	239878	+	1860.0	NO	NO	NO	Fungal specific transcription factor domain_pfam11951;Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172
+SLangusT_00076	Scaffold_1	240189	241881	+	1692.0	NO	NO	NO	NO
+SLangusT_00077	Scaffold_1	243347	244461	+	1114.0	NO	NO	NO	NO
+SLangusT_00078	Scaffold_1	246158	247476	+	1318.0	NO	NO	NO	Pyridine nucleotide-disulphide oxidoreductase_pfam07992
+SLangusT_00079	Scaffold_1	249300	251029	-	1729.0	NO	NO	NO	NO
+SLangusT_00080	Scaffold_1	251289	251838	+	549.0	0.991	NO	NO	NO
+SLangusT_00081	Scaffold_1	252384	253445	-	1061.0	NO	NO	NO	Fungal specific transcription factor domain_pfam11951
+SLangusT_00082	Scaffold_1	254771	255736	+	965.0	NO	NO	NO	RTA1 like protein_pfam04479
+SLangusT_00083	Scaffold_1	257075	257662	-	587.0	NO	NO	NO	NO
+SLangusT_00084	Scaffold_1	258619	259762	-	1143.0	NO	NO	NO	NO
+SLangusT_00085	Scaffold_1	262090	264195	-	2105.0	NO	NO	NO	Protein of unknown function (DUF2985)_pfam11204
+SLangusT_00086	Scaffold_1	267599	270177	+	2578.0	NO	NO	NO	NO
+SLangusT_00087	Scaffold_1	271794	272941	-	1147.0	NO	NO	NO	Maintenance of mitochondrial structure and function_pfam13012;JAB1/Mov34/MPN/PAD-1 ubiquitin protease_pfam01398
+SLangusT_00088	Scaffold_1	273617	275733	+	2116.0	NO	NO	NO	Histone deacetylase domain_pfam00850
+SLangusT_00089	Scaffold_1	276677	277671	+	994.0	0.901	NO	NO	Ribosomal protein L14p/L23e_pfam00238
+SLangusT_00090	Scaffold_1	278400	279852	-	1452.0	NO	NO	NO	ZIP Zinc transporter_pfam02535
+SLangusT_00091	Scaffold_1	281406	282910	+	1504.0	NO	NO	NO	NO
+SLangusT_00092	Scaffold_1	285875	286583	+	708.0	NO	SignalP_EUK	NO	NO
+SLangusT_00093	Scaffold_1	287581	289127	-	1546.0	NO	NO	NO	Methyltransferase domain_pfam13489
+SLangusT_00094	Scaffold_1	290686	290988	-	302.0	NO	NO	NO	NO
+SLangusT_00095	Scaffold_1	294529	296060	-	1531.0	NO	SignalP_EUK	GH28.hmm	Glycosyl hydrolases family 28_pfam00295
+SLangusT_00096	Scaffold_1	298899	300307	-	1408.0	NO	NO	NO	Forkhead domain_pfam00250
+SLangusT_00097	Scaffold_1	301550	304019	-	2469.0	NO	NO	NO	Cactus-binding C-terminus of cactin protein_pfam09732;Conserved mid region of cactin_pfam10312
+SLangusT_00098	Scaffold_1	305103	305780	-	677.0	0.937	NO	NO	Peptide methionine sulfoxide reductase_pfam01625
+SLangusT_00099	Scaffold_1	308258	308743	-	485.0	0.937	NO	NO	NO
+SLangusT_00100	Scaffold_1	309439	312391	+	2952.0	NO	NO	NO	F-box-like_pfam12937;Unstructured region on cNMP-binding protein_pfam16643;Cyclic nucleotide-binding domain_pfam00027
+SLangusT_00101	Scaffold_1	313577	314765	-	1188.0	NO	NO	NO	Inhibitor of apoptosis-promoting Bax1_pfam01027
+SLangusT_00102	Scaffold_1	315504	316046	+	542.0	NO	NO	NO	NO
+SLangusT_00103	Scaffold_1	317414	318255	+	841.0	NO	NO	NO	Acetyltransferase (GNAT) family_pfam00583
+SLangusT_00104	Scaffold_1	319887	321990	+	2103.0	NO	NO	NO	IBR domain, a half RING-finger domain_pfam01485
+SLangusT_00105	Scaffold_1	324545	325413	-	868.0	NO	NO	NO	Hypoxia induced protein conserved region_pfam04588
+SLangusT_00106	Scaffold_1	329056	331377	+	2321.0	NO	NO	NO	NO
+SLangusT_00107	Scaffold_1	333320	334724	-	1404.0	NO	NO	NO	NO
+SLangusT_00108	Scaffold_1	335149	335729	-	580.0	NO	NO	NO	NO
+SLangusT_00109	Scaffold_1	336967	337522	-	555.0	NO	NO	NO	NO
+SLangusT_00110	Scaffold_1	337802	338410	+	608.0	NO	NO	NO	NO
+SLangusT_00111	Scaffold_1	338734	339906	-	1172.0	NO	NO	NO	NO
+SLangusT_00112	Scaffold_1	341393	342806	-	1413.0	NO	NO	NO	AT hook motif_pfam02178
+SLangusT_00113	Scaffold_1	343412	344065	+	653.0	0.999	NO	NO	Zinc-binding_pfam12907;4F5 protein family_pfam04419
+SLangusT_00114	Scaffold_1	344451	345648	-	1197.0	NO	NO	NO	non-haem dioxygenase in morphine synthesis N-terminal_pfam14226;2OG-Fe(II) oxygenase superfamily_pfam03171
+SLangusT_00115	Scaffold_1	346308	349446	-	3138.0	NO	NO	NO	NO
+SLangusT_00116	Scaffold_1	349681	350924	+	1243.0	NO	NO	NO	RNA polymerases N / 8 kDa subunit_pfam01194
+SLangusT_00117	Scaffold_1	352893	355364	+	2471.0	NO	NO	NO	NO
+SLangusT_00118	Scaffold_1	357604	358944	-	1340.0	NO	NO	NO	Nitrogen permease regulator 2_pfam06218
+SLangusT_00119	Scaffold_1	360128	361644	+	1516.0	NO	NO	NO	Lysine methyltransferase_pfam10294
+SLangusT_00120	Scaffold_1	362562	364895	+	2333.0	NO	NO	NO	NO
+SLangusT_00121	Scaffold_1	365977	367575	+	1598.0	NO	NO	NO	Heterokaryon incompatibility protein (HET)_pfam06985
+SLangusT_00122	Scaffold_1	368170	369586	-	1416.0	NO	NO	NO	NO
+SLangusT_00123	Scaffold_1	372133	373689	-	1556.0	NO	NO	NO	Kelch motif_pfam01344;Galactose oxidase, central domain_pfam13418;Kelch motif_pfam13854;Kelch motif_pfam07646
+SLangusT_00124	Scaffold_1	374652	377054	+	2402.0	NO	NO	NO	Dihydrouridine synthase (Dus)_pfam01207
+SLangusT_00125	Scaffold_1	377908	378753	-	845.0	NO	NO	NO	B-cell receptor-associated protein 31-like_pfam05529
+SLangusT_00126	Scaffold_1	379667	381173	-	1506.0	NO	NO	NO	NO
+SLangusT_00127	Scaffold_1	382182	383781	-	1599.0	NO	NO	NO	NO
+SLangusT_00128	Scaffold_1	387543	389451	+	1908.0	NO	NO	NO	NO
+SLangusT_00129	Scaffold_1	391188	391694	+	506.0	1.0	NO	NO	NO
+SLangusT_00130	Scaffold_1	393774	394246	+	472.0	0.987	NO	NO	NO
+SLangusT_00131	Scaffold_1	401216	404013	-	2797.0	NO	NO	NO	NO
+SLangusT_00132	Scaffold_1	405468	406970	+	1502.0	NO	NO	NO	WD domain, G-beta repeat_pfam00400
+SLangusT_00133	Scaffold_1	408568	409995	+	1427.0	NO	NO	NO	NO
+SLangusT_00134	Scaffold_1	416114	417643	-	1529.0	NO	NO	NO	NO
+SLangusT_00135	Scaffold_1	419606	420601	-	995.0	NO	NO	NO	NO
+SLangusT_00136	Scaffold_1	422165	424248	+	2083.0	NO	NO	NO	Calponin homology (CH) domain_pfam00307
+SLangusT_00137	Scaffold_1	425095	427959	-	2864.0	NO	NO	NO	XPG I-region_pfam00867;XPG N-terminal domain_pfam00752
+SLangusT_00138	Scaffold_1	428316	430158	+	1842.0	NO	NO	NO	Actin_pfam00022
+SLangusT_00139	Scaffold_1	431226	432052	-	826.0	NO	NO	NO	NO
+SLangusT_00140	Scaffold_1	434258	434644	+	386.0	NO	NO	NO	NO
+SLangusT_00141	Scaffold_1	436250	436564	+	314.0	NO	NO	NO	NO
+SLangusT_00142	Scaffold_1	436996	437781	+	785.0	NO	SignalP_EUK	NO	NO
+SLangusT_00143	Scaffold_1	438870	439272	-	402.0	NO	NO	NO	NO
+SLangusT_00144	Scaffold_1	440363	440948	-	585.0	NO	NO	NO	NO
+SLangusT_00145	Scaffold_1	442835	444184	-	1349.0	NO	NO	NO	WLM domain_pfam08325
+SLangusT_00146	Scaffold_1	444675	446284	+	1609.0	NO	NO	NO	Fungal family of unknown function (DUF1776)_pfam08643
+SLangusT_00147	Scaffold_1	447150	449400	-	2250.0	NO	SignalP_EUK	NO	Zinc finger C-x8-C-x5-C-x3-H type (and similar)_pfam00642
+SLangusT_00148	Scaffold_1	450825	452222	+	1397.0	NO	NO	GH18.hmm	Glycosyl hydrolases family 18_pfam00704
+SLangusT_00149	Scaffold_1	452843	455462	+	2619.0	NO	NO	NO	Vps53-like, N-terminal_pfam04100
+SLangusT_00150	Scaffold_1	456653	457980	+	1327.0	NO	NO	NO	Pyridine nucleotide-disulphide oxidoreductase_pfam07992
+SLangusT_00151	Scaffold_1	459819	463771	-	3952.0	NO	NO	NO	NO
+SLangusT_00152	Scaffold_1	465338	469608	-	4270.0	NO	NO	GT1.hmm	Glycosyltransferase family 28 N-terminal domain_pfam03033;UDP-glucoronosyl and UDP-glucosyl transferase_pfam00201
+SLangusT_00153	Scaffold_1	470687	474666	-	3979.0	NO	NO	NO	Sec61beta family_pfam03911;NLI interacting factor-like phosphatase_pfam03031
+SLangusT_00154	Scaffold_1	478363	481388	+	3025.0	NO	NO	NO	ABC transporter transmembrane region 2_pfam06472;ABC transporter_pfam00005
+SLangusT_00155	Scaffold_1	481794	482884	-	1090.0	NO	NO	NO	Ribosomal proteins 50S-L18Ae/60S-L20/60S-L18A_pfam01775
+SLangusT_00156	Scaffold_1	483509	485205	+	1696.0	NO	NO	NO	PCI domain_pfam01399
+SLangusT_00157	Scaffold_1	487008	488005	-	997.0	NO	NO	NO	BTB/POZ domain_pfam00651
+SLangusT_00158	Scaffold_1	489347	490384	-	1037.0	NO	NO	CE10.hmm	NO
+SLangusT_00159	Scaffold_1	490429	490777	-	348.0	0.915	NO	NO	NO
+SLangusT_00160	Scaffold_1	491362	492639	+	1277.0	NO	NO	NO	Leucine Rich repeats (2 copies)_pfam12799;Leucine rich repeat_pfam13855
+SLangusT_00161	Scaffold_1	492959	494229	-	1270.0	NO	NO	NO	Aldo/keto reductase family_pfam00248
+SLangusT_00162	Scaffold_1	495156	496636	-	1480.0	NO	NO	GT31.hmm	NO
+SLangusT_00163	Scaffold_1	499268	502119	-	2851.0	NO	NO	GT2.hmm	Glycosyl transferase family group 2_pfam13632
+SLangusT_00164	Scaffold_1	502848	503467	-	619.0	0.911	NO	NO	NO
+SLangusT_00165	Scaffold_1	504568	505984	-	1416.0	NO	NO	GH16.hmm	Glycosyl hydrolases family 16_pfam00722
+SLangusT_00166	Scaffold_1	507242	508517	+	1275.0	NO	SignalP_EUK	NO	NO
+SLangusT_00167	Scaffold_1	510230	511837	+	1607.0	NO	NO	NO	NO
+SLangusT_00168	Scaffold_1	512065	512874	-	809.0	NO	NO	NO	Utp11 protein_pfam03998
+SLangusT_00169	Scaffold_1	513165	513703	+	538.0	NO	NO	NO	Cytochrome c oxidase biogenesis protein Cmc1 like_pfam08583
+SLangusT_00170	Scaffold_1	514300	515243	+	943.0	NO	NO	NO	SET domain_pfam00856
+SLangusT_00171	Scaffold_1	516478	517608	+	1130.0	0.967	NO	NO	NO
+SLangusT_00172	Scaffold_1	518131	518721	-	590.0	NO	NO	NO	NO
+SLangusT_00173	Scaffold_1	518861	519587	-	726.0	NO	NO	NO	NO
+SLangusT_00174	Scaffold_1	520704	522053	+	1349.0	NO	SignalP_EUK	NO	Peroxidase, family 2_pfam01328
+SLangusT_00175	Scaffold_1	522520	523985	+	1465.0	NO	NO	NO	WD domain, G-beta repeat_pfam00400
+SLangusT_00176	Scaffold_1	524470	526489	+	2019.0	NO	NO	NO	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain_pfam02852;Pyridine nucleotide-disulphide oxidoreductase_pfam07992
+SLangusT_00177	Scaffold_1	528007	533363	+	5356.0	NO	NO	NO	RNA polymerase Rpb1 C-terminal repeat_pfam05001;RNA polymerase Rpb1, domain 1_pfam04997;RNA polymerase Rpb1, domain 3_pfam04983;RNA polymerase Rpb1, domain 6_pfam04992;RNA polymerase Rpb1, domain 2_pfam00623;RNA polymerase Rpb1, domain 7_pfam04990;RNA polymerase Rpb1, domain 5_pfam04998;RNA polymerase Rpb1, domain 4_pfam05000
+SLangusT_00178	Scaffold_1	535086	535393	+	307.0	NO	NO	NO	NO
+SLangusT_00179	Scaffold_1	537701	539928	+	2227.0	NO	NO	NO	Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172;Fungal specific transcription factor domain_pfam04082
+SLangusT_00180	Scaffold_1	540615	541850	-	1235.0	NO	NO	NO	Oxidoreductase FAD-binding domain_pfam00970;Oxidoreductase NAD-binding domain_pfam00175
+SLangusT_00181	Scaffold_1	543423	546382	+	2959.0	NO	NO	NO	NO
+SLangusT_00182	Scaffold_1	548062	551256	-	3194.0	NO	NO	NO	2-oxoglutarate dehydrogenase C-terminal_pfam16870;Transketolase, pyrimidine binding domain_pfam02779;2-oxoglutarate dehydrogenase N-terminus_pfam16078;Dehydrogenase E1 component_pfam00676
+SLangusT_00183	Scaffold_1	552059	554045	+	1986.0	NO	NO	NO	TFIIH p62 subunit, N-terminal domain_pfam08567;BSD domain_pfam03909
+SLangusT_00184	Scaffold_1	554318	556465	+	2147.0	NO	NO	NO	NO
+SLangusT_00185	Scaffold_1	557218	562071	-	4853.0	NO	NO	NO	NO
+SLangusT_00186	Scaffold_1	563304	563942	+	638.0	0.948	SignalP_EUK	NO	NO
+SLangusT_00187	Scaffold_1	566326	566702	+	376.0	0.999	SignalP_EUK	NO	NO
+SLangusT_00188	Scaffold_1	568044	569299	-	1255.0	NO	NO	NO	SPFH domain / Band 7 family_pfam01145
+SLangusT_00189	Scaffold_1	570453	573122	-	2669.0	NO	NO	NO	NO
+SLangusT_00190	Scaffold_1	575130	576716	-	1586.0	NO	NO	NO	Cytochrome P450_pfam00067
+SLangusT_00191	Scaffold_1	578880	579503	+	623.0	NO	NO	NO	NO
+SLangusT_00192	Scaffold_1	582191	583936	-	1745.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00193	Scaffold_1	589559	590155	-	596.0	0.966	NO	NO	NO
+SLangusT_00194	Scaffold_1	590569	594917	-	4348.0	NO	NO	NO	Methyltransferase domain_pfam13489
+SLangusT_00195	Scaffold_1	598715	598937	-	222.0	NO	NO	NO	NO
+SLangusT_00196	Scaffold_1	604003	604515	-	512.0	NO	NO	NO	NO
+SLangusT_00197	Scaffold_1	605886	606222	+	336.0	NO	NO	NO	NO
+SLangusT_00198	Scaffold_1	606906	607445	-	539.0	NO	NO	NO	NO
+SLangusT_00199	Scaffold_1	610536	611641	-	1105.0	NO	NO	NO	NO
+SLangusT_00200	Scaffold_1	612206	613285	-	1079.0	NO	NO	NO	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain_pfam02826;D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain_pfam00389
+SLangusT_00201	Scaffold_1	614166	615341	+	1175.0	NO	NO	NO	Zinc-binding dehydrogenase_pfam00107;Alcohol dehydrogenase GroES-like domain_pfam08240
+SLangusT_00202	Scaffold_1	615700	616468	+	768.0	NO	NO	NO	Mitochondrial ATP synthase g subunit_pfam04718
+SLangusT_00203	Scaffold_1	618261	621686	+	3425.0	NO	NO	NO	NO
+SLangusT_00204	Scaffold_1	622591	623942	-	1351.0	NO	NO	NO	Dienelactone hydrolase family_pfam01738
+SLangusT_00205	Scaffold_1	624648	625692	+	1044.0	NO	NO	NO	CDP-alcohol phosphatidyltransferase_pfam01066
+SLangusT_00206	Scaffold_1	627666	629671	+	2005.0	NO	NO	NO	NO
+SLangusT_00207	Scaffold_1	633992	634755	+	763.0	NO	NO	NO	NO
+SLangusT_00208	Scaffold_1	634979	635821	+	842.0	0.995	NO	NO	NO
+SLangusT_00209	Scaffold_1	642434	642708	-	274.0	NO	NO	NO	NO
+SLangusT_00210	Scaffold_1	642972	643220	+	248.0	NO	NO	NO	NO
+SLangusT_00211	Scaffold_1	643492	644176	+	684.0	NO	NO	NO	ARP2/3 complex 16 kDa subunit (p16-Arc)_pfam04699
+SLangusT_00212	Scaffold_1	648816	649133	-	317.0	NO	NO	NO	NO
+SLangusT_00213	Scaffold_1	650758	651077	+	319.0	NO	NO	NO	NO
+SLangusT_00214	Scaffold_1	651698	653543	-	1845.0	NO	NO	NO	Transmembrane amino acid transporter protein_pfam01490
+SLangusT_00215	Scaffold_1	660491	663124	+	2633.0	NO	NO	GH2.hmm	Glycosyl hydrolases family 2_pfam00703
+SLangusT_00216	Scaffold_1	663717	665040	-	1323.0	NO	NO	NO	Zinc-binding dehydrogenase_pfam00107;Alcohol dehydrogenase GroES-like domain_pfam08240
+SLangusT_00217	Scaffold_1	665510	665968	-	458.0	NO	NO	NO	NO
+SLangusT_00218	Scaffold_1	666487	667245	+	758.0	NO	NO	NO	Polyketide cyclase / dehydrase and lipid transport_pfam03364
+SLangusT_00219	Scaffold_1	668817	670966	-	2149.0	NO	NO	NO	Cytochrome P450_pfam00067
+SLangusT_00220	Scaffold_1	671997	673124	-	1127.0	NO	NO	NO	G-patch domain_pfam12656
+SLangusT_00221	Scaffold_1	673773	678568	-	4795.0	NO	NO	NO	Myb-like DNA-binding domain_pfam13921;HSA_pfam07529
+SLangusT_00222	Scaffold_1	679904	681062	-	1158.0	NO	NO	NO	Insulin-induced protein (INSIG)_pfam07281
+SLangusT_00223	Scaffold_1	683053	684507	+	1454.0	NO	NO	NO	NO
+SLangusT_00224	Scaffold_1	686592	688379	+	1787.0	NO	NO	NO	Mycolic acid cyclopropane synthetase_pfam02353
+SLangusT_00225	Scaffold_1	688970	693394	+	4424.0	NO	NO	NO	Cytoskeletal-regulatory complex EF hand_pfam12763;Domain of unknown function (DUF1720)_pfam08226
+SLangusT_00226	Scaffold_1	694773	695024	-	251.0	NO	NO	NO	NO
+SLangusT_00227	Scaffold_1	695143	696313	-	1170.0	0.829	NO	NO	NO
+SLangusT_00228	Scaffold_1	698676	699311	+	635.0	0.833	SignalP_EUK	NO	NO
+SLangusT_00229	Scaffold_1	699838	700893	-	1055.0	NO	NO	CE10.hmm	alpha/beta hydrolase fold_pfam07859
+SLangusT_00230	Scaffold_1	701460	703528	+	2068.0	NO	NO	NO	NO
+SLangusT_00231	Scaffold_1	703866	705767	-	1901.0	NO	NO	NO	NO
+SLangusT_00232	Scaffold_1	706273	707409	-	1136.0	NO	NO	NO	NO
+SLangusT_00233	Scaffold_1	708709	712846	+	4137.0	NO	NO	NO	Ubiquitin-conjugating enzyme_pfam00179;Poly(ADP-ribose) polymerase catalytic domain_pfam00644
+SLangusT_00234	Scaffold_1	714928	715793	-	865.0	NO	SignalP_EUK	NO	Eukaryotic-type carbonic anhydrase_pfam00194
+SLangusT_00235	Scaffold_1	718060	719757	+	1697.0	NO	NO	NO	Sds3-like_pfam08598
+SLangusT_00236	Scaffold_1	721289	724123	-	2834.0	NO	NO	NO	Fungal specific transcription factor domain_pfam04082;Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172
+SLangusT_00237	Scaffold_1	726051	726623	+	572.0	NO	NO	NO	NO
+SLangusT_00238	Scaffold_1	727191	728606	-	1415.0	NO	NO	NO	NO
+SLangusT_00239	Scaffold_1	729639	732889	-	3250.0	NO	NO	NO	Threonyl and Alanyl tRNA synthetase second additional domain_pfam07973;tRNA synthetases class II (A)_pfam01411
+SLangusT_00240	Scaffold_1	733230	733981	+	751.0	NO	NO	NO	NO
+SLangusT_00241	Scaffold_1	734158	734840	-	682.0	NO	NO	NO	Chitin synthesis regulation, resistance to Congo red_pfam12273
+SLangusT_00242	Scaffold_1	736039	740955	-	4916.0	NO	NO	NO	Golgi CORVET complex core vacuolar protein 8_pfam12816
+SLangusT_00243	Scaffold_1	741539	742660	+	1121.0	NO	NO	NO	Protein of unknown function (DUF3752)_pfam12572
+SLangusT_00244	Scaffold_1	743037	744673	-	1636.0	NO	NO	NO	Permease for cytosine/purines, uracil, thiamine, allantoin_pfam02133
+SLangusT_00245	Scaffold_1	747421	748013	-	592.0	0.868	NO	NO	NO
+SLangusT_00246	Scaffold_1	748023	748682	+	659.0	1.0	NO	NO	NO
+SLangusT_00247	Scaffold_1	750834	752096	+	1262.0	NO	SignalP_EUK	NO	NO
+SLangusT_00248	Scaffold_1	753178	754273	-	1095.0	0.981	NO	NO	Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD_pfam00160
+SLangusT_00249	Scaffold_1	757066	758518	+	1452.0	NO	NO	NO	Ring finger domain_pfam13639
+SLangusT_00250	Scaffold_1	759973	761964	-	1991.0	NO	NO	NO	Tetratricopeptide repeat_pfam13181;Tetratricopeptide repeat_pfam13424
+SLangusT_00251	Scaffold_1	763359	766661	-	3302.0	NO	NO	NO	Spa2 homology domain (SHD) of GIT_pfam08518
+SLangusT_00252	Scaffold_1	769103	769942	-	839.0	NO	NO	NO	Ssu72-like protein_pfam04722
+SLangusT_00253	Scaffold_1	772325	774007	+	1682.0	NO	NO	NO	SH3 domain_pfam00018
+SLangusT_00254	Scaffold_1	775058	775811	-	753.0	NO	NO	NO	Isochorismatase family_pfam00857
+SLangusT_00255	Scaffold_1	777391	781079	+	3688.0	NO	NO	NO	Hydroxymethylglutaryl-coenzyme A reductase_pfam00368;N-terminal domain with HPIH motif_pfam13323;Sterol-sensing domain of SREBP cleavage-activation_pfam12349
+SLangusT_00256	Scaffold_1	781541	783331	-	1790.0	NO	NO	NO	Vacuolar sorting 38 and autophagy-related subunit 14_pfam10186
+SLangusT_00257	Scaffold_1	784521	785532	-	1011.0	NO	NO	NO	Ca2+ regulator and membrane fusion protein Fig1_pfam12351
+SLangusT_00258	Scaffold_1	792128	793663	-	1535.0	NO	NO	NO	NO
+SLangusT_00259	Scaffold_1	795692	798272	-	2580.0	NO	NO	NO	XFP N-terminal domain_pfam09364;D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase_pfam03894;XFP C-terminal domain_pfam09363
+SLangusT_00260	Scaffold_1	799751	801864	-	2113.0	NO	NO	NO	Sugar (and other) transporter_pfam00083
+SLangusT_00261	Scaffold_1	802927	803782	-	855.0	NO	NO	NO	Adenylate kinase, active site lid_pfam05191;Adenylate kinase_pfam00406
+SLangusT_00262	Scaffold_1	805417	810386	-	4969.0	NO	NO	NO	NO
+SLangusT_00263	Scaffold_1	811410	811928	+	518.0	0.99	NO	NO	NO
+SLangusT_00264	Scaffold_1	812671	815340	+	2669.0	NO	SignalP_EUK	NO	Proprotein convertase P-domain_pfam01483;Subtilase family_pfam00082
+SLangusT_00265	Scaffold_1	816151	817599	-	1448.0	NO	NO	NO	PX domain_pfam00787
+SLangusT_00266	Scaffold_1	818331	820036	-	1705.0	NO	NO	NO	LETM1-like protein_pfam07766
+SLangusT_00267	Scaffold_1	820670	821124	-	454.0	0.894	NO	NO	NO
+SLangusT_00268	Scaffold_1	822911	824701	+	1790.0	NO	NO	NO	XLF-Cernunnos, XRcc4-like factor, NHEJ component_pfam09302
+SLangusT_00269	Scaffold_1	829258	830694	-	1436.0	NO	NO	NO	NO
+SLangusT_00270	Scaffold_1	833261	836773	+	3512.0	NO	NO	NO	WD domain, G-beta repeat_pfam00400
+SLangusT_00271	Scaffold_1	837308	838876	-	1568.0	NO	NO	NO	Aldehyde dehydrogenase family_pfam00171
+SLangusT_00272	Scaffold_1	839029	839354	-	325.0	NO	NO	NO	NO
+SLangusT_00273	Scaffold_1	839935	841418	-	1483.0	NO	SignalP_EUK	GH5.hmm	Cellulase (glycosyl hydrolase family 5)_pfam00150
+SLangusT_00274	Scaffold_1	843602	843957	-	355.0	0.868	NO	NO	NO
+SLangusT_00275	Scaffold_1	844301	844725	-	424.0	NO	NO	NO	NO
+SLangusT_00276	Scaffold_1	846345	847313	+	968.0	NO	NO	CE10.hmm	Steryl acetyl hydrolase_pfam10340
+SLangusT_00277	Scaffold_1	847558	848602	-	1044.0	NO	NO	NO	Chromatin associated protein KTI12_pfam08433
+SLangusT_00278	Scaffold_1	852199	852875	-	676.0	NO	NO	NO	NO
+SLangusT_00279	Scaffold_1	853629	855766	+	2137.0	NO	NO	NO	NO
+SLangusT_00280	Scaffold_1	856922	858960	-	2038.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00281	Scaffold_1	861578	862519	-	941.0	NO	NO	NO	Phospholipase/Carboxylesterase_pfam02230
+SLangusT_00282	Scaffold_1	864618	864947	+	329.0	0.988	NO	NO	NO
+SLangusT_00283	Scaffold_1	865184	866217	+	1033.0	NO	NO	NO	NO
+SLangusT_00284	Scaffold_1	868029	870848	+	2819.0	NO	NO	NO	F-box-like_pfam12937;Exocyst complex component Sec10_pfam07393
+SLangusT_00285	Scaffold_1	871080	872343	-	1263.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00286	Scaffold_1	873288	874139	+	851.0	NO	NO	NO	Frag1/DRAM/Sfk1 family_pfam10277
+SLangusT_00287	Scaffold_1	874357	875049	-	692.0	0.859	NO	NO	NO
+SLangusT_00288	Scaffold_1	878790	880379	+	1589.0	NO	SignalP_EUK	NO	FAD binding domain_pfam01494
+SLangusT_00289	Scaffold_1	880457	881460	-	1003.0	NO	NO	NO	UbiA prenyltransferase family_pfam01040
+SLangusT_00290	Scaffold_1	882651	883970	+	1319.0	NO	NO	NO	O-methyltransferase_pfam00891
+SLangusT_00291	Scaffold_1	885288	886503	-	1215.0	NO	NO	NO	Tyrosine phosphatase family_pfam13350
+SLangusT_00292	Scaffold_1	887806	890632	+	2826.0	NO	NO	NO	Eisosome protein 1_pfam12757
+SLangusT_00293	Scaffold_1	891854	893234	-	1380.0	NO	NO	NO	NO
+SLangusT_00294	Scaffold_1	895223	896948	+	1725.0	NO	NO	NO	Taurine catabolism dioxygenase TauD, TfdA family_pfam02668
+SLangusT_00295	Scaffold_1	898445	903132	+	4687.0	NO	NO	NO	ABC transporter transmembrane region_pfam00664;ABC transporter_pfam00005
+SLangusT_00296	Scaffold_1	904124	904991	+	867.0	NO	NO	NO	NO
+SLangusT_00297	Scaffold_1	905365	906237	-	872.0	NO	NO	NO	Acetyltransferase (GNAT) domain_pfam13302
+SLangusT_00298	Scaffold_1	907121	908227	-	1106.0	NO	NO	NO	Methyltransferase domain_pfam13489
+SLangusT_00299	Scaffold_1	908848	912146	+	3298.0	NO	NO	NO	Adaptin C-terminal domain_pfam02883;Adaptin N terminal region_pfam01602;Alpha adaptin AP2, C-terminal domain_pfam02296
+SLangusT_00300	Scaffold_1	914164	914502	+	338.0	NO	SignalP_EUK	NO	NO
+SLangusT_00301	Scaffold_1	917103	917454	+	351.0	1.0	SignalP_EUK	NO	NO
+SLangusT_00302	Scaffold_1	917914	918481	-	567.0	0.981	NO	NO	NO
+SLangusT_00303	Scaffold_1	919081	920191	+	1110.0	NO	NO	NO	DnaJ domain_pfam00226
+SLangusT_00304	Scaffold_1	920785	921130	-	345.0	NO	NO	NO	NO
+SLangusT_00305	Scaffold_1	921530	924034	-	2504.0	NO	NO	NO	NO
+SLangusT_00306	Scaffold_1	926587	930629	-	4042.0	NO	NO	NO	NO
+SLangusT_00307	Scaffold_1	930991	933194	-	2203.0	NO	NO	NO	NO
+SLangusT_00308	Scaffold_1	935260	936415	-	1155.0	NO	NO	NO	NO
+SLangusT_00309	Scaffold_1	938267	938971	-	704.0	NO	NO	NO	IGR protein motif_pfam09597
+SLangusT_00310	Scaffold_1	939664	945103	+	5439.0	NO	NO	NO	Helicase conserved C-terminal domain_pfam00271;Zinc finger, C3HC4 type (RING finger)_pfam13923;SNF2 family N-terminal domain_pfam00176
+SLangusT_00311	Scaffold_1	945907	947275	-	1368.0	NO	NO	NO	Pyridoxal-phosphate dependent enzyme_pfam00291
+SLangusT_00312	Scaffold_1	949399	950448	-	1049.0	NO	NO	NO	Protein prenyltransferase alpha subunit repeat_pfam01239
+SLangusT_00313	Scaffold_1	951075	952607	-	1532.0	NO	NO	NO	GHMP kinases C terminal_pfam08544;GHMP kinases N terminal domain_pfam00288
+SLangusT_00314	Scaffold_1	954521	955816	+	1295.0	NO	NO	NO	NO
+SLangusT_00315	Scaffold_1	963724	964131	+	407.0	NO	NO	NO	NO
+SLangusT_00316	Scaffold_1	967266	968159	+	893.0	0.985	NO	NO	NO
+SLangusT_00317	Scaffold_1	968969	970200	+	1231.0	NO	NO	NO	NO
+SLangusT_00318	Scaffold_1	972864	974232	+	1368.0	NO	NO	NO	Zinc finger, C2H2 type_pfam00096
+SLangusT_00319	Scaffold_1	974896	975255	+	359.0	0.934	NO	NO	NO
+SLangusT_00320	Scaffold_1	975656	978129	+	2473.0	NO	NO	NO	ATPase family associated with various cellular activities (AAA)_pfam00004;Peptidase family M41_pfam01434
+SLangusT_00321	Scaffold_1	981627	982325	-	698.0	NO	NO	NO	Nitroreductase family_pfam00881
+SLangusT_00322	Scaffold_1	983193	984683	+	1490.0	NO	NO	NO	CAAX prenyl protease N-terminal, five membrane helices_pfam16491;Peptidase family M48_pfam01435
+SLangusT_00323	Scaffold_1	984770	985354	-	584.0	NO	NO	NO	NO
+SLangusT_00324	Scaffold_1	985588	986023	+	435.0	NO	NO	NO	Ribosomal protein L34_pfam00468
+SLangusT_00325	Scaffold_1	987295	987940	+	645.0	NO	NO	NO	NO
+SLangusT_00326	Scaffold_1	988165	988668	-	503.0	NO	NO	NO	NO
+SLangusT_00327	Scaffold_1	989417	989927	-	510.0	NO	SignalP_EUK	NO	NO
+SLangusT_00328	Scaffold_1	990348	991966	-	1618.0	NO	NO	NO	Cytochrome P450_pfam00067
+SLangusT_00329	Scaffold_1	993748	994913	+	1165.0	NO	NO	NO	Putative undecaprenyl diphosphate synthase_pfam01255
+SLangusT_00330	Scaffold_1	995540	997769	+	2229.0	NO	NO	NO	Inhibitor of growth proteins N-terminal histone-binding_pfam12998
+SLangusT_00331	Scaffold_1	999174	999741	-	567.0	NO	NO	NO	NO
+SLangusT_00332	Scaffold_1	1000744	1002968	+	2224.0	NO	NO	NO	NO
+SLangusT_00333	Scaffold_1	1004943	1008196	+	3253.0	NO	NO	NO	Up-regulated During Septation_pfam15456
+SLangusT_00334	Scaffold_1	1009218	1010948	-	1730.0	NO	NO	NO	DNA polymerase alpha/epsilon subunit B_pfam04042
+SLangusT_00335	Scaffold_1	1011746	1016825	-	5079.0	NO	NO	NO	Solute carrier family 12_pfam03522;Amino acid permease_pfam00324
+SLangusT_00336	Scaffold_1	1017905	1020370	+	2465.0	NO	NO	NO	Transmembrane amino acid transporter protein_pfam01490
+SLangusT_00337	Scaffold_1	1021048	1021362	-	314.0	NO	NO	NO	NO
+SLangusT_00338	Scaffold_1	1021634	1022940	+	1306.0	NO	NO	NO	Protein of unknown function (DUF3716)_pfam12511
+SLangusT_00339	Scaffold_1	1023370	1024776	-	1406.0	NO	NO	NO	Nitronate monooxygenase_pfam03060
+SLangusT_00340	Scaffold_1	1025492	1026135	+	643.0	NO	NO	NO	RNA polymerase Rpb3/Rpb11 dimerisation domain_pfam13656
+SLangusT_00341	Scaffold_1	1028552	1028792	+	240.0	0.999	NO	NO	NO
+SLangusT_00342	Scaffold_1	1029156	1029977	+	821.0	NO	NO	NO	NO
+SLangusT_00343	Scaffold_1	1030961	1032439	-	1478.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00344	Scaffold_1	1035827	1036660	+	833.0	NO	SignalP_EUK	NO	SnoaL-like domain_pfam13577
+SLangusT_00345	Scaffold_1	1037914	1038301	-	387.0	NO	NO	NO	NO
+SLangusT_00346	Scaffold_1	1038499	1039219	-	720.0	0.803	NO	NO	NO
+SLangusT_00347	Scaffold_1	1042330	1043350	+	1020.0	NO	NO	NO	Enoyl-(Acyl carrier protein) reductase_pfam13561
+SLangusT_00348	Scaffold_1	1045085	1047137	-	2052.0	NO	NO	NO	SRF-type transcription factor (DNA-binding and dimerisation domain)_pfam00319
+SLangusT_00349	Scaffold_1	1049835	1050124	-	289.0	0.989	SignalP_EUK	NO	NO
+SLangusT_00350	Scaffold_1	1056400	1060094	-	3694.0	NO	NO	NO	Protein of unknown function (DUF3591)_pfam12157
+SLangusT_00351	Scaffold_1	1060794	1062565	+	1771.0	NO	NO	NO	Putative serine dehydratase domain_pfam14031;Alanine racemase, N-terminal domain_pfam01168
+SLangusT_00352	Scaffold_1	1062798	1064255	-	1457.0	NO	NO	NO	Actin_pfam00022
+SLangusT_00353	Scaffold_1	1064871	1066202	+	1331.0	NO	NO	NO	Protein kinase domain_pfam00069;Leucine rich repeat_pfam13855
+SLangusT_00354	Scaffold_1	1067441	1068466	+	1025.0	NO	NO	NO	Zinc-binding dehydrogenase_pfam00107
+SLangusT_00355	Scaffold_1	1068626	1069890	-	1264.0	NO	NO	NO	short chain dehydrogenase_pfam00106
+SLangusT_00356	Scaffold_1	1071522	1071963	-	441.0	NO	NO	NO	NO
+SLangusT_00357	Scaffold_1	1076999	1078252	+	1253.0	NO	SignalP_EUK	NO	Protein of unknown function (DUF4448)_pfam14610
+SLangusT_00358	Scaffold_2	2940	3779	-	839.0	NO	NO	NO	NO
+SLangusT_00359	Scaffold_2	4476	5541	+	1065.0	NO	NO	NO	Methyltransferase domain_pfam13489
+SLangusT_00360	Scaffold_2	8239	10885	-	2646.0	NO	NO	NO	RNA recognition motif 2_pfam04059
+SLangusT_00361	Scaffold_2	11825	12201	+	376.0	0.904	NO	NO	NO
+SLangusT_00362	Scaffold_2	13415	16243	+	2828.0	NO	NO	NO	Exocyst complex subunit Sec15-like_pfam04091
+SLangusT_00363	Scaffold_2	16541	17777	-	1236.0	NO	NO	NO	Histone-like transcription factor (CBF/NF-Y) and archaeal histone_pfam00808
+SLangusT_00364	Scaffold_2	18934	19856	+	922.0	NO	NO	NO	Fcf2 pre-rRNA processing_pfam08698
+SLangusT_00365	Scaffold_2	21606	23128	+	1522.0	NO	NO	NO	Ribosomal protein S10p/S20e_pfam00338
+SLangusT_00366	Scaffold_2	23387	25033	+	1646.0	NO	NO	NO	tRNA synthetases class I (W and Y)_pfam00579
+SLangusT_00367	Scaffold_2	25214	25654	-	440.0	NO	NO	NO	NO
+SLangusT_00368	Scaffold_2	26391	28102	-	1711.0	NO	NO	NO	Seryl-tRNA synthetase N-terminal domain_pfam02403;tRNA synthetase class II core domain (G, H, P, S and T)_pfam00587
+SLangusT_00369	Scaffold_2	28617	29386	-	769.0	0.943	NO	NO	Ras family_pfam00071
+SLangusT_00370	Scaffold_2	30436	33404	-	2968.0	NO	NO	NO	Wings apart-like protein regulation of heterochromatin_pfam07814
+SLangusT_00371	Scaffold_2	34451	35400	+	949.0	NO	NO	NO	Uracil phosphoribosyltransferase_pfam14681
+SLangusT_00372	Scaffold_2	35638	36247	-	609.0	NO	NO	NO	Transcription elongation factor Elf1 like_pfam05129
+SLangusT_00373	Scaffold_2	37229	40252	+	3023.0	NO	NO	NO	GTP cyclohydrolase N terminal_pfam12471;GTP cyclohydrolase II_pfam00925
+SLangusT_00374	Scaffold_2	41035	41524	+	489.0	NO	NO	NO	NO
+SLangusT_00375	Scaffold_2	43755	45477	-	1722.0	NO	NO	NO	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain_pfam02826;D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain_pfam00389
+SLangusT_00376	Scaffold_2	46040	47122	+	1082.0	NO	NO	NO	Ribosomal S3Ae family_pfam01015
+SLangusT_00377	Scaffold_2	47479	48423	+	944.0	0.982	NO	NO	Ras family_pfam00071
+SLangusT_00378	Scaffold_2	48672	49662	-	990.0	NO	NO	CE10.hmm	alpha/beta hydrolase fold_pfam00561
+SLangusT_00379	Scaffold_2	50737	52502	+	1765.0	NO	NO	NO	Peptidase family C78_pfam07910
+SLangusT_00380	Scaffold_2	53757	55550	-	1793.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00381	Scaffold_2	56128	56424	+	296.0	NO	NO	NO	NO
+SLangusT_00382	Scaffold_2	56605	58080	-	1475.0	NO	NO	NO	Mycolic acid cyclopropane synthetase_pfam02353
+SLangusT_00383	Scaffold_2	58614	63242	-	4628.0	NO	NO	NO	E1-E2 ATPase_pfam00122;haloacid dehalogenase-like hydrolase_pfam00702;P5-type ATPase cation transporter_pfam12409
+SLangusT_00384	Scaffold_2	63688	65117	+	1429.0	NO	NO	NO	Nucleosome assembly protein (NAP)_pfam00956
+SLangusT_00385	Scaffold_2	66766	67269	+	503.0	0.989	NO	NO	NO
+SLangusT_00386	Scaffold_2	68697	73719	+	5022.0	NO	NO	NO	IQ calmodulin-binding motif_pfam00612;DIL domain_pfam01843;Myosin head (motor domain)_pfam00063
+SLangusT_00387	Scaffold_2	75174	75979	+	805.0	NO	NO	NO	NO
+SLangusT_00388	Scaffold_2	76090	78521	-	2431.0	NO	NO	NO	Cytochrome P450_pfam00067
+SLangusT_00389	Scaffold_2	78898	79747	+	849.0	0.939	NO	NO	Ham1 family_pfam01725
+SLangusT_00390	Scaffold_2	79844	80619	-	775.0	NO	NO	NO	AAA domain_pfam13238
+SLangusT_00391	Scaffold_2	81283	82851	-	1568.0	NO	NO	NO	5'-AMP-activated protein kinase beta subunit, interaction domain_pfam04739;Glycogen recognition site of AMP-activated protein kinase_pfam16561
+SLangusT_00392	Scaffold_2	83548	84113	+	565.0	0.965	NO	NO	NO
+SLangusT_00393	Scaffold_2	84196	85245	-	1049.0	NO	NO	NO	Glycoprotease family_pfam00814
+SLangusT_00394	Scaffold_2	85757	87419	+	1662.0	NO	NO	NO	SET domain_pfam00856;Rubisco LSMT substrate-binding_pfam09273
+SLangusT_00395	Scaffold_2	87782	89624	-	1842.0	NO	NO	NO	Enhancer of polycomb-like_pfam10513
+SLangusT_00396	Scaffold_2	90504	91323	+	819.0	NO	NO	NO	EF-hand domain pair_pfam13499;EF hand_pfam13202
+SLangusT_00397	Scaffold_2	96818	98451	+	1633.0	0.893	NO	NO	NO
+SLangusT_00398	Scaffold_2	103408	104659	+	1251.0	NO	NO	NO	NO
+SLangusT_00399	Scaffold_2	107954	108997	-	1043.0	NO	NO	NO	Ribosomal protein S9/S16_pfam00380
+SLangusT_00400	Scaffold_2	109237	110789	+	1552.0	NO	NO	NO	Glutathione S-transferase, N-terminal domain_pfam02798;Elongation factor 1 gamma, conserved domain_pfam00647;Glutathione S-transferase, C-terminal domain_pfam00043
+SLangusT_00401	Scaffold_2	111214	112503	-	1289.0	NO	NO	NO	NLI interacting factor-like phosphatase_pfam03031
+SLangusT_00402	Scaffold_2	112711	113665	+	954.0	NO	NO	NO	Domain of unknown function (DUF947)_pfam06102
+SLangusT_00403	Scaffold_2	115521	117020	-	1499.0	NO	SignalP_EUK	NO	NO
+SLangusT_00404	Scaffold_2	121383	123104	-	1721.0	NO	SignalP_EUK	NO	NO
+SLangusT_00405	Scaffold_2	124958	126853	+	1895.0	NO	NO	NO	Ketopantoate reductase PanE/ApbA C terminal_pfam08546
+SLangusT_00406	Scaffold_2	133741	134559	-	818.0	NO	NO	NO	NO
+SLangusT_00407	Scaffold_2	136410	136773	-	363.0	NO	NO	NO	NO
+SLangusT_00408	Scaffold_2	142462	144849	-	2387.0	NO	NO	NO	Vacuolar sorting protein 9 (VPS9) domain_pfam02204
+SLangusT_00409	Scaffold_2	145776	147848	+	2072.0	NO	SignalP_EUK	NO	Lipase (class 3)_pfam01764
+SLangusT_00410	Scaffold_2	148585	150107	-	1522.0	NO	NO	NO	Paf1_pfam03985
+SLangusT_00411	Scaffold_2	150958	151728	-	770.0	NO	NO	NO	Rer1 family_pfam03248
+SLangusT_00412	Scaffold_2	152262	153178	+	916.0	NO	NO	NO	Enoyl-CoA hydratase/isomerase_pfam00378
+SLangusT_00413	Scaffold_2	154338	155436	-	1098.0	NO	SignalP_EUK	PL1.hmm	Pectate lyase_pfam00544
+SLangusT_00414	Scaffold_2	155899	156162	+	263.0	NO	NO	NO	NO
+SLangusT_00415	Scaffold_2	157207	157920	-	713.0	NO	NO	NO	GDSL-like Lipase/Acylhydrolase family_pfam13472
+SLangusT_00416	Scaffold_2	159509	160033	-	524.0	0.848	NO	NO	Phosphatidylethanolamine-binding protein_pfam01161
+SLangusT_00417	Scaffold_2	160593	162050	-	1457.0	NO	NO	NO	Citrate synthase, C-terminal domain_pfam00285
+SLangusT_00418	Scaffold_2	163182	164375	+	1193.0	NO	NO	NO	MmgE/PrpD family_pfam03972
+SLangusT_00419	Scaffold_2	165124	166127	-	1003.0	NO	NO	NO	NO
+SLangusT_00420	Scaffold_2	166446	168111	-	1665.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00421	Scaffold_2	168792	169372	+	580.0	NO	NO	NO	NO
+SLangusT_00422	Scaffold_2	169469	170080	+	611.0	0.932	NO	NO	NO
+SLangusT_00423	Scaffold_2	173431	175122	-	1691.0	NO	NO	GH13.hmm	Domain of unknown function (DUF1966)_pfam09260;Alpha amylase, catalytic domain_pfam00128
+SLangusT_00424	Scaffold_2	176373	176613	-	240.0	NO	NO	NO	NO
+SLangusT_00425	Scaffold_2	178611	178928	-	317.0	NO	NO	NO	NO
+SLangusT_00426	Scaffold_2	180022	181505	-	1483.0	NO	NO	NO	A49-like RNA polymerase I associated factor_pfam06870
+SLangusT_00427	Scaffold_2	182389	184405	-	2016.0	NO	NO	NO	Ribosomal protein L41_pfam05162
+SLangusT_00428	Scaffold_2	185215	187610	+	2395.0	NO	NO	NO	FHA domain_pfam00498;Protein kinase domain_pfam00069
+SLangusT_00429	Scaffold_2	188214	189110	+	896.0	NO	NO	NO	Mitochondrial carrier protein_pfam00153
+SLangusT_00430	Scaffold_2	192375	193686	+	1311.0	NO	NO	NO	NO
+SLangusT_00431	Scaffold_2	193999	197663	-	3664.0	NO	NO	NO	NO
+SLangusT_00432	Scaffold_2	198772	201028	+	2256.0	NO	NO	NO	rRNA processing/ribosome biogenesis_pfam08167
+SLangusT_00433	Scaffold_2	205727	206967	+	1240.0	NO	NO	NO	NO
+SLangusT_00434	Scaffold_2	212102	212632	+	530.0	NO	SignalP_EUK	NO	NO
+SLangusT_00435	Scaffold_2	214006	215972	+	1966.0	NO	SignalP_EUK	CBM18.hmm	Chitin recognition protein_pfam00187;Polysaccharide deacetylase_pfam01522
+SLangusT_00436	Scaffold_2	216933	220116	+	3183.0	NO	NO	NO	Calponin homology (CH) domain_pfam00307;Ca2+ insensitive EF hand_pfam08726
+SLangusT_00437	Scaffold_2	221235	223043	-	1808.0	NO	NO	NO	IBR domain, a half RING-finger domain_pfam01485
+SLangusT_00438	Scaffold_2	229316	231324	-	2008.0	NO	SignalP_EUK	NO	Amidase_pfam01425
+SLangusT_00439	Scaffold_2	233072	234567	+	1495.0	NO	SignalP_EUK	NO	Phosphoesterase family_pfam04185
+SLangusT_00440	Scaffold_2	236658	237821	+	1163.0	NO	SignalP_EUK	NO	Yeast PIR protein repeat_pfam00399
+SLangusT_00441	Scaffold_2	241022	242027	-	1005.0	NO	NO	NO	NO
+SLangusT_00442	Scaffold_2	243400	244248	+	848.0	NO	NO	NO	NO
+SLangusT_00443	Scaffold_2	245614	246229	+	615.0	NO	NO	NO	NO
+SLangusT_00444	Scaffold_2	246647	247689	+	1042.0	NO	NO	NO	NO
+SLangusT_00445	Scaffold_2	248458	249648	-	1190.0	NO	NO	NO	Alcohol dehydrogenase GroES-like domain_pfam08240;Zinc-binding dehydrogenase_pfam00107
+SLangusT_00446	Scaffold_2	250568	251998	-	1430.0	NO	NO	NO	Bestrophin, RFP-TM, chloride channel_pfam01062
+SLangusT_00447	Scaffold_2	252485	253068	-	583.0	NO	NO	NO	Mitochondrial import receptor subunit Tom22_pfam04281
+SLangusT_00448	Scaffold_2	253553	255650	+	2097.0	NO	NO	NO	NO
+SLangusT_00449	Scaffold_2	257218	261110	+	3892.0	NO	NO	NO	NO
+SLangusT_00450	Scaffold_2	268513	270207	-	1694.0	NO	NO	NO	Protein of unknown function (DUF1264)_pfam06884
+SLangusT_00451	Scaffold_2	271201	273318	-	2117.0	NO	NO	NO	Metallo-beta-lactamase superfamily_pfam00753;Hydroxyacylglutathione hydrolase C-terminus_pfam16123
+SLangusT_00452	Scaffold_2	273673	276783	-	3110.0	NO	NO	NO	Protein of unknown function (DUF4449)_pfam14613
+SLangusT_00453	Scaffold_2	279337	281662	-	2325.0	NO	NO	NO	Domain of unknown function (DUF4211)_pfam13926
+SLangusT_00454	Scaffold_2	282587	283381	+	794.0	0.976	NO	NO	NO
+SLangusT_00455	Scaffold_2	284514	284966	+	452.0	NO	NO	NO	NO
+SLangusT_00456	Scaffold_2	286817	287556	+	739.0	0.931	NO	NO	NO
+SLangusT_00457	Scaffold_2	287923	288943	-	1020.0	NO	NO	NO	Eukaryotic initiation factor 4E_pfam01652
+SLangusT_00458	Scaffold_2	289790	290404	+	614.0	NO	NO	NO	Domain of unknown function (DUF4598)_pfam15370
+SLangusT_00459	Scaffold_2	291713	293627	-	1914.0	NO	NO	NO	Kinesin motor domain_pfam00225
+SLangusT_00460	Scaffold_2	294272	295004	+	732.0	NO	NO	NO	NO
+SLangusT_00461	Scaffold_2	296799	297516	+	717.0	NO	NO	NO	ARD/ARD' family_pfam03079
+SLangusT_00462	Scaffold_2	298200	299501	+	1301.0	NO	NO	NO	short chain dehydrogenase_pfam00106
+SLangusT_00463	Scaffold_2	299766	300585	-	819.0	NO	NO	NO	Der1-like family_pfam04511
+SLangusT_00464	Scaffold_2	301339	302032	+	693.0	NO	NO	NO	Core histone H2A/H2B/H3/H4_pfam00125
+SLangusT_00465	Scaffold_2	302357	303558	-	1201.0	NO	NO	NO	GHMP kinases N terminal domain_pfam00288
+SLangusT_00466	Scaffold_2	304229	306749	+	2520.0	NO	NO	NO	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain_pfam01071;AIR synthase related protein, N-terminal domain_pfam00586;AIR synthase related protein, C-terminal domain_pfam02769;Phosphoribosylglycinamide synthetase, C domain_pfam02843;Phosphoribosylglycinamide synthetase, N domain_pfam02844
+SLangusT_00467	Scaffold_2	307195	308290	-	1095.0	NO	NO	NO	SOR/SNZ family_pfam01680
+SLangusT_00468	Scaffold_2	309828	310601	+	773.0	NO	NO	NO	FUN14 family_pfam04930
+SLangusT_00469	Scaffold_2	310865	314736	-	3871.0	NO	NO	NO	NO
+SLangusT_00470	Scaffold_2	315646	318066	+	2420.0	NO	NO	NO	Creatinase/Prolidase N-terminal domain_pfam01321;C-terminal region of peptidase_M24_pfam16188;Creatinase/Prolidase N-terminal domain_pfam16189;Metallopeptidase family M24_pfam00557
+SLangusT_00471	Scaffold_2	318668	321773	+	3105.0	NO	SignalP_EUK	NO	Sad1 / UNC-like C-terminal_pfam07738
+SLangusT_00472	Scaffold_2	323930	327586	-	3656.0	NO	NO	NO	PHD-finger_pfam16866;MOZ/SAS family_pfam01853
+SLangusT_00473	Scaffold_2	327819	328763	+	944.0	NO	NO	NO	NADH-ubiquinone oxidoreductase MWFE subunit_pfam15879
+SLangusT_00474	Scaffold_2	332080	332453	-	373.0	NO	NO	NO	NO
+SLangusT_00475	Scaffold_2	333880	335995	+	2115.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00476	Scaffold_2	336005	336737	-	732.0	0.952	NO	NO	NO
+SLangusT_00477	Scaffold_2	338141	338513	-	372.0	0.885	NO	NO	Mitochondrial ribosomal protein L27_pfam09809
+SLangusT_00478	Scaffold_2	338717	341634	+	2917.0	NO	NO	NO	Utp14 protein_pfam04615
+SLangusT_00479	Scaffold_2	342826	343140	-	314.0	0.998	NO	NO	NO
+SLangusT_00480	Scaffold_2	345193	348072	+	2879.0	NO	SignalP_EUK	GH81.hmm	Glycosyl hydrolase family 81_pfam03639
+SLangusT_00481	Scaffold_2	348713	350263	-	1550.0	NO	NO	NO	Peptidase family M54_pfam07998
+SLangusT_00482	Scaffold_2	351114	352280	-	1166.0	NO	NO	NO	Cyclin, N-terminal domain_pfam00134
+SLangusT_00483	Scaffold_2	362658	364360	-	1702.0	NO	NO	NO	NO
+SLangusT_00484	Scaffold_2	365377	367745	+	2368.0	NO	NO	NO	Acyltransferase_pfam01553
+SLangusT_00485	Scaffold_2	369220	369482	+	262.0	1.0	NO	NO	NO
+SLangusT_00486	Scaffold_2	370227	372299	+	2072.0	NO	NO	NO	Sodium/calcium exchanger protein_pfam01699
+SLangusT_00487	Scaffold_2	373213	374339	-	1126.0	NO	NO	NO	Telomere regulation protein Stn1_pfam10451
+SLangusT_00488	Scaffold_2	374864	376190	-	1326.0	NO	NO	NO	DnaJ domain_pfam00226
+SLangusT_00489	Scaffold_2	376695	378293	-	1598.0	NO	SignalP_EUK	CE8.hmm	Pectinesterase_pfam01095
+SLangusT_00490	Scaffold_2	379814	381971	-	2157.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00491	Scaffold_2	389248	390106	+	858.0	NO	SignalP_EUK	NO	NO
+SLangusT_00492	Scaffold_2	390474	391157	-	683.0	NO	NO	NO	NO
+SLangusT_00493	Scaffold_2	391221	391523	-	302.0	0.915	NO	NO	NO
+SLangusT_00494	Scaffold_2	392757	393110	-	353.0	0.916	NO	NO	NO
+SLangusT_00495	Scaffold_2	394157	395443	+	1286.0	NO	NO	NO	NO
+SLangusT_00496	Scaffold_2	396591	398441	-	1850.0	NO	NO	NO	NO
+SLangusT_00497	Scaffold_2	400383	406796	-	6413.0	NO	NO	NO	Nucleoporin FG repeat region_pfam13634;Nucleoporin autopeptidase_pfam04096;Nuclear protein 96_pfam12110
+SLangusT_00498	Scaffold_2	408008	408807	+	799.0	NO	NO	NO	EF hand_pfam00036;EF-hand domain pair_pfam13499
+SLangusT_00499	Scaffold_2	409702	411576	-	1874.0	NO	NO	NO	Domain of unknown function (DUF1720)_pfam08226;ENTH domain_pfam01417
+SLangusT_00500	Scaffold_2	412698	413985	-	1287.0	NO	NO	NO	50S ribosome-binding GTPase_pfam01926
+SLangusT_00501	Scaffold_2	414009	414344	+	335.0	0.906	NO	NO	Complex1_LYR-like_pfam13233
+SLangusT_00502	Scaffold_2	415940	419797	+	3857.0	NO	NO	NO	NO
+SLangusT_00503	Scaffold_2	420474	422307	-	1833.0	NO	NO	NO	NO
+SLangusT_00504	Scaffold_2	422948	424432	-	1484.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00505	Scaffold_2	425100	429654	-	4554.0	NO	NO	NO	Exocyst complex component SEC3 N-terminal PIP2 binding PH_pfam15277;Exocyst complex component Sec3_pfam09763
+SLangusT_00506	Scaffold_2	430316	431791	+	1475.0	NO	NO	NO	SRP40, C-terminal domain_pfam05022
+SLangusT_00507	Scaffold_2	433078	434974	+	1896.0	NO	NO	NO	Adenosine/AMP deaminase_pfam00962
+SLangusT_00508	Scaffold_2	436739	438185	+	1446.0	NO	NO	NO	NO
+SLangusT_00509	Scaffold_2	439341	439572	+	231.0	NO	NO	NO	NO
+SLangusT_00510	Scaffold_2	439593	440699	+	1106.0	NO	NO	NO	NO
+SLangusT_00511	Scaffold_2	442975	444199	-	1224.0	NO	NO	NO	Nitronate monooxygenase_pfam03060
+SLangusT_00512	Scaffold_2	446024	446360	-	336.0	NO	NO	NO	NO
+SLangusT_00513	Scaffold_2	446818	447230	+	412.0	NO	NO	NO	NO
+SLangusT_00514	Scaffold_2	447671	449195	+	1524.0	NO	NO	NO	Ribosomal protein S7p/S5e_pfam00177
+SLangusT_00515	Scaffold_2	451138	452078	+	940.0	0.974	NO	NO	NO
+SLangusT_00516	Scaffold_2	453076	455346	+	2270.0	NO	NO	NO	Universal stress protein family_pfam00582
+SLangusT_00517	Scaffold_2	456904	458423	-	1519.0	NO	NO	NO	NO
+SLangusT_00518	Scaffold_2	458610	459712	-	1102.0	NO	NO	NO	NO
+SLangusT_00519	Scaffold_2	462456	464862	-	2406.0	NO	NO	NO	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)_pfam00076;Poly-adenylate binding protein, unique domain_pfam00658
+SLangusT_00520	Scaffold_2	466853	470573	+	3720.0	NO	NO	NO	HECT-domain (ubiquitin-transferase)_pfam00632
+SLangusT_00521	Scaffold_2	474633	475833	+	1200.0	NO	NO	NO	Aldo/keto reductase family_pfam00248
+SLangusT_00522	Scaffold_2	479992	481330	-	1338.0	NO	NO	NO	Taurine catabolism dioxygenase TauD, TfdA family_pfam02668
+SLangusT_00523	Scaffold_2	481785	482493	-	708.0	NO	NO	NO	NO
+SLangusT_00524	Scaffold_2	483877	485646	+	1769.0	0.918	NO	NO	NO
+SLangusT_00525	Scaffold_2	487464	487845	+	381.0	NO	NO	NO	NO
+SLangusT_00526	Scaffold_2	490992	491400	+	408.0	1.0	NO	NO	NO
+SLangusT_00527	Scaffold_2	491985	493237	-	1252.0	NO	NO	NO	Alanine racemase, N-terminal domain_pfam01168
+SLangusT_00528	Scaffold_2	495666	498568	+	2902.0	NO	NO	NO	Mechanosensitive ion channel_pfam00924
+SLangusT_00529	Scaffold_2	499491	501252	+	1761.0	NO	NO	NO	NO
+SLangusT_00530	Scaffold_2	501981	502439	-	458.0	NO	NO	NO	NO
+SLangusT_00531	Scaffold_2	503694	505503	-	1809.0	NO	SignalP_EUK	CE10.hmm	Carboxylesterase family_pfam00135
+SLangusT_00532	Scaffold_2	506994	509610	-	2616.0	NO	NO	NO	C-5 cytosine-specific DNA methylase_pfam00145
+SLangusT_00533	Scaffold_2	511718	512642	+	924.0	NO	NO	NO	SRP19 protein_pfam01922
+SLangusT_00534	Scaffold_2	514334	514817	-	483.0	0.91	NO	NO	NO
+SLangusT_00535	Scaffold_2	515887	517345	+	1458.0	NO	NO	NO	NO
+SLangusT_00536	Scaffold_2	519152	521090	+	1938.0	NO	NO	NO	NO
+SLangusT_00537	Scaffold_2	523810	525457	-	1647.0	NO	NO	NO	NO
+SLangusT_00538	Scaffold_2	527240	528740	-	1500.0	NO	NO	NO	NO
+SLangusT_00539	Scaffold_2	529199	530196	+	997.0	0.937	NO	NO	NO
+SLangusT_00540	Scaffold_2	531435	531975	-	540.0	1.0	NO	NO	NO
+SLangusT_00541	Scaffold_2	533635	535350	+	1715.0	NO	NO	NO	Putative FMN-binding domain_pfam04299
+SLangusT_00542	Scaffold_2	536827	538395	-	1568.0	NO	NO	NO	NO
+SLangusT_00543	Scaffold_2	541505	543367	+	1862.0	NO	NO	NO	NO
+SLangusT_00544	Scaffold_2	544409	546482	-	2073.0	NO	NO	NO	Fungal specific transcription factor domain_pfam11951
+SLangusT_00545	Scaffold_2	548397	550121	+	1724.0	NO	NO	NO	NO
+SLangusT_00546	Scaffold_2	552339	555496	+	3157.0	NO	NO	NO	NO
+SLangusT_00547	Scaffold_2	556190	558799	+	2609.0	NO	NO	NO	NO
+SLangusT_00548	Scaffold_2	559142	560046	-	904.0	NO	NO	NO	Serine hydrolase (FSH1)_pfam03959
+SLangusT_00549	Scaffold_2	562185	564186	-	2001.0	NO	NO	NO	NO
+SLangusT_00550	Scaffold_2	568468	571154	-	2686.0	NO	NO	NO	Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172;Fungal specific transcription factor domain_pfam04082
+SLangusT_00551	Scaffold_2	572999	573298	+	299.0	NO	NO	NO	NO
+SLangusT_00552	Scaffold_2	574778	576229	+	1451.0	NO	NO	NO	Alcohol dehydrogenase GroES-like domain_pfam08240;Zinc-binding dehydrogenase_pfam00107
+SLangusT_00553	Scaffold_2	577331	578158	-	827.0	NO	NO	NO	F-box-like_pfam12937
+SLangusT_00554	Scaffold_2	578616	579070	-	454.0	NO	NO	NO	CENP-S protein_pfam15630
+SLangusT_00555	Scaffold_2	579573	580028	+	455.0	NO	NO	NO	Protein trafficking PGA2_pfam07543
+SLangusT_00556	Scaffold_2	580989	583919	+	2930.0	NO	NO	NO	NO
+SLangusT_00557	Scaffold_2	584641	585210	-	569.0	NO	NO	NO	NO
+SLangusT_00558	Scaffold_2	586463	588233	-	1770.0	NO	NO	NO	Cytochrome P450_pfam00067
+SLangusT_00559	Scaffold_2	590023	593121	-	3098.0	NO	NO	NO	NO
+SLangusT_00560	Scaffold_2	594637	596251	-	1614.0	NO	NO	NO	NO
+SLangusT_00561	Scaffold_2	598015	598421	+	406.0	NO	NO	NO	NO
+SLangusT_00562	Scaffold_2	599408	600213	+	805.0	0.974	NO	NO	NO
+SLangusT_00563	Scaffold_2	601138	601541	-	403.0	0.993	NO	NO	RTA1 like protein_pfam04479
+SLangusT_00564	Scaffold_2	601800	602362	-	562.0	NO	NO	NO	NO
+SLangusT_00565	Scaffold_2	603028	605233	-	2205.0	NO	NO	NO	NO
+SLangusT_00566	Scaffold_2	605901	607640	+	1739.0	NO	SignalP_EUK	NO	NO
+SLangusT_00567	Scaffold_2	608053	609372	-	1319.0	NO	NO	NO	Clostridium epsilon toxin ETX/Bacillus mosquitocidal toxin MTX2_pfam03318
+SLangusT_00568	Scaffold_2	610063	610808	-	745.0	0.98	NO	NO	NO
+SLangusT_00569	Scaffold_2	612687	614095	-	1408.0	NO	NO	NO	NO
+SLangusT_00570	Scaffold_2	615005	615343	-	338.0	NO	NO	NO	NO
+SLangusT_00571	Scaffold_2	615546	616799	-	1253.0	NO	SignalP_EUK	NO	NO
+SLangusT_00572	Scaffold_2	619272	621226	-	1954.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00573	Scaffold_2	621750	623887	-	2137.0	NO	SignalP_EUK	NO	Calcineurin-like phosphoesterase_pfam00149
+SLangusT_00574	Scaffold_2	625141	627156	+	2015.0	NO	NO	NO	NAD(P)-binding Rossmann-like domain_pfam13450
+SLangusT_00575	Scaffold_2	628006	629842	-	1836.0	NO	NO	NO	Sec1 family_pfam00995
+SLangusT_00576	Scaffold_2	630385	632241	+	1856.0	NO	NO	NO	MBOAT, membrane-bound O-acyltransferase family_pfam03062
+SLangusT_00577	Scaffold_2	633025	638302	-	5277.0	NO	NO	NO	NO
+SLangusT_00578	Scaffold_2	638929	640127	+	1198.0	NO	NO	NO	CAAX protease self-immunity_pfam02517
+SLangusT_00579	Scaffold_2	640524	641435	-	911.0	NO	NO	NO	NO
+SLangusT_00580	Scaffold_2	642225	643553	+	1328.0	NO	NO	NO	NO
+SLangusT_00581	Scaffold_2	644383	645741	+	1358.0	NO	NO	NO	Maintenance of mitochondrial morphology protein 1_pfam10296
+SLangusT_00582	Scaffold_2	647524	648561	+	1037.0	NO	NO	GT32.hmm	Glycosyltransferase sugar-binding region containing DXD motif_pfam04488
+SLangusT_00583	Scaffold_2	652047	653226	+	1179.0	NO	NO	NO	Replication factor C C-terminal domain_pfam08542;ATPase family associated with various cellular activities (AAA)_pfam00004
+SLangusT_00584	Scaffold_2	653335	653798	-	463.0	NO	NO	NO	NO
+SLangusT_00585	Scaffold_2	654045	654793	+	748.0	0.977	NO	NO	Imidazoleglycerol-phosphate dehydratase_pfam00475
+SLangusT_00586	Scaffold_2	655280	656008	+	728.0	NO	NO	NO	NO
+SLangusT_00587	Scaffold_2	656266	657763	-	1497.0	NO	NO	NO	alpha/beta hydrolase fold_pfam00561
+SLangusT_00588	Scaffold_2	658267	660781	+	2514.0	NO	NO	NO	Cohesin loading factor_pfam10345
+SLangusT_00589	Scaffold_2	661438	665157	+	3719.0	NO	NO	NO	Mitochondrial protein Pet127_pfam08634
+SLangusT_00590	Scaffold_2	665591	666730	+	1139.0	NO	NO	NO	NO
+SLangusT_00591	Scaffold_2	667679	668410	+	731.0	NO	NO	NO	NO
+SLangusT_00592	Scaffold_2	668664	670014	-	1350.0	0.938	NO	NO	NO
+SLangusT_00593	Scaffold_2	674418	676284	-	1866.0	NO	NO	NO	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)_pfam00076;linker between RRM2 and RRM3 domains in RBM39 protein_pfam15519
+SLangusT_00594	Scaffold_2	676874	678104	-	1230.0	NO	NO	NO	Fatty acid hydroxylase superfamily_pfam04116;Cytochrome b5-like Heme/Steroid binding domain_pfam00173
+SLangusT_00595	Scaffold_2	678849	681342	+	2493.0	NO	SignalP_EUK	NO	Heterokaryon incompatibility protein Het-C_pfam07217
+SLangusT_00596	Scaffold_2	684675	685355	+	680.0	NO	NO	NO	NO
+SLangusT_00597	Scaffold_2	685895	686327	+	432.0	NO	NO	NO	NO
+SLangusT_00598	Scaffold_2	691775	692093	+	318.0	NO	NO	NO	NO
+SLangusT_00599	Scaffold_2	693910	695722	+	1812.0	NO	NO	NO	FGGY family of carbohydrate kinases, C-terminal domain_pfam02782;FGGY family of carbohydrate kinases, N-terminal domain_pfam00370
+SLangusT_00600	Scaffold_2	697084	700147	-	3063.0	NO	NO	NO	Zn-dependent metallo-hydrolase RNA specificity domain_pfam07521;Metallo-beta-lactamase superfamily_pfam00753;Beta-Casp domain_pfam10996;Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term_pfam11718
+SLangusT_00601	Scaffold_2	700679	702652	+	1973.0	NO	NO	NO	Transcription initiation factor TFIID component TAF4 family_pfam05236
+SLangusT_00602	Scaffold_2	704891	706949	+	2058.0	NO	NO	NO	Natural resistance-associated macrophage protein_pfam01566
+SLangusT_00603	Scaffold_2	709999	711524	+	1525.0	NO	NO	NO	NO
+SLangusT_00604	Scaffold_2	712782	714004	+	1222.0	NO	SignalP_EUK	GH5.hmm	Cellulase (glycosyl hydrolase family 5)_pfam00150
+SLangusT_00605	Scaffold_2	716033	716597	+	564.0	0.887	NO	NO	NO
+SLangusT_00606	Scaffold_2	717600	718141	+	541.0	0.937	NO	NO	NO
+SLangusT_00607	Scaffold_2	719101	719670	+	569.0	NO	NO	NO	NO
+SLangusT_00608	Scaffold_2	720955	721500	-	545.0	NO	NO	NO	NO
+SLangusT_00609	Scaffold_2	724703	726126	+	1423.0	NO	NO	NO	Thiolase, N-terminal domain_pfam00108;Thiolase, C-terminal domain_pfam02803
+SLangusT_00610	Scaffold_2	727875	729128	-	1253.0	NO	NO	NO	NO
+SLangusT_00611	Scaffold_2	730025	731291	+	1266.0	NO	NO	NO	NO
+SLangusT_00612	Scaffold_2	732207	732937	+	730.0	0.954	NO	NO	NO
+SLangusT_00613	Scaffold_2	735617	736729	+	1112.0	NO	SignalP_EUK	CE8.hmm	Pectinesterase_pfam01095
+SLangusT_00614	Scaffold_2	739457	741124	+	1667.0	NO	NO	NO	NO
+SLangusT_00615	Scaffold_2	742585	744738	-	2153.0	NO	NO	GH17.hmm	Glycosyl hydrolases family 17_pfam00332
+SLangusT_00616	Scaffold_2	747038	747732	+	694.0	0.992	NO	NO	Isochorismatase family_pfam00857
+SLangusT_00617	Scaffold_2	747827	748743	-	916.0	NO	NO	NO	SRR1_pfam07985
+SLangusT_00618	Scaffold_2	750993	752065	+	1072.0	NO	SignalP_EUK	NO	NO
+SLangusT_00619	Scaffold_2	752910	755370	-	2460.0	NO	NO	NO	PFU (PLAA family ubiquitin binding)_pfam09070;PUL domain_pfam08324;WD domain, G-beta repeat_pfam00400
+SLangusT_00620	Scaffold_2	756247	757510	+	1263.0	NO	NO	NO	WD domain, G-beta repeat_pfam00400
+SLangusT_00621	Scaffold_2	758932	761635	-	2703.0	NO	NO	NO	Diaphanous GTPase-binding Domain_pfam06371
+SLangusT_00622	Scaffold_2	762535	763743	-	1208.0	NO	NO	NO	Sucrase/ferredoxin-like_pfam06999
+SLangusT_00623	Scaffold_2	764282	765942	+	1660.0	NO	NO	NO	NO
+SLangusT_00624	Scaffold_2	767028	767754	-	726.0	0.998	NO	NO	NO
+SLangusT_00625	Scaffold_2	768456	769276	+	820.0	NO	NO	NO	Phosphoribosyl transferase domain_pfam00156
+SLangusT_00626	Scaffold_2	769783	771440	-	1657.0	NO	NO	NO	Ubiquitin 3 binding protein But2 C-terminal domain_pfam09792
+SLangusT_00627	Scaffold_2	773590	774989	-	1399.0	NO	NO	AA7.hmm	FAD binding domain_pfam01565
+SLangusT_00628	Scaffold_2	775281	775809	+	528.0	NO	NO	NO	NO
+SLangusT_00629	Scaffold_2	777170	779084	+	1914.0	NO	NO	NO	IBR domain, a half RING-finger domain_pfam01485
+SLangusT_00630	Scaffold_2	781594	788911	-	7317.0	NO	NO	NO	Myosin tail_pfam01576;Myosin head (motor domain)_pfam00063;Myosin N-terminal SH3-like domain_pfam02736
+SLangusT_00631	Scaffold_2	789847	793871	+	4024.0	NO	NO	NO	Putative zinc-finger domain_pfam10650
+SLangusT_00632	Scaffold_2	795127	796828	+	1701.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00633	Scaffold_2	798891	799691	-	800.0	NO	SignalP_EUK	NO	NO
+SLangusT_00634	Scaffold_2	800453	803096	-	2643.0	NO	NO	NO	RNA12 protein_pfam10443
+SLangusT_00635	Scaffold_2	803396	804103	+	707.0	NO	NO	NO	Protein of unknown function (DUF3128)_pfam11326
+SLangusT_00636	Scaffold_2	804554	807431	-	2877.0	NO	NO	NO	Spt20 family_pfam12090
+SLangusT_00637	Scaffold_2	814712	815640	-	928.0	NO	NO	NO	NO
+SLangusT_00638	Scaffold_2	815923	816355	-	432.0	0.934	NO	NO	NO
+SLangusT_00639	Scaffold_2	819449	820352	+	903.0	NO	SignalP_EUK	GH12.hmm	Glycosyl hydrolase family 12_pfam01670
+SLangusT_00640	Scaffold_2	821359	822112	+	753.0	0.986	NO	NO	Ribosomal protein S19e_pfam01090
+SLangusT_00641	Scaffold_2	822311	822826	-	515.0	NO	NO	NO	NO
+SLangusT_00642	Scaffold_2	823882	824725	+	843.0	NO	NO	NO	NO
+SLangusT_00643	Scaffold_2	825381	827981	+	2600.0	NO	SignalP_EUK	GH92.hmm	Glycosyl hydrolase family 92_pfam07971
+SLangusT_00644	Scaffold_2	830478	834432	-	3954.0	NO	NO	NO	NO
+SLangusT_00645	Scaffold_2	836280	837861	-	1581.0	NO	SignalP_EUK	CBM1.hmm	Glycosyl hydrolase family 10_pfam00331;Fungal cellulose binding domain_pfam00734
+SLangusT_00646	Scaffold_2	842352	842641	-	289.0	NO	NO	NO	NO
+SLangusT_00647	Scaffold_2	843783	845369	-	1586.0	NO	SignalP_EUK	GH23.hmm	NO
+SLangusT_00648	Scaffold_2	847565	849127	+	1562.0	NO	SignalP_EUK	GH26.hmm	Glycosyl hydrolase family 26_pfam02156
+SLangusT_00649	Scaffold_2	849273	850482	-	1209.0	NO	NO	NO	NAD dependent epimerase/dehydratase family_pfam01370
+SLangusT_00650	Scaffold_2	851218	852113	-	895.0	0.996	NO	NO	NO
+SLangusT_00651	Scaffold_2	852183	853853	-	1670.0	NO	NO	CBM24.hmm	NO
+SLangusT_00652	Scaffold_2	853883	856271	-	2388.0	NO	SignalP_EUK	GH71.hmm	Glycosyl hydrolase family 71_pfam03659
+SLangusT_00653	Scaffold_2	857282	859263	-	1981.0	NO	NO	NO	NO
+SLangusT_00654	Scaffold_3	610	2200	-	1590.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00655	Scaffold_3	3258	3784	+	526.0	NO	NO	NO	NO
+SLangusT_00656	Scaffold_3	4407	6114	+	1707.0	NO	NO	NO	Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172
+SLangusT_00657	Scaffold_3	6990	7796	+	806.0	NO	NO	NO	Beta-lactamase superfamily domain_pfam12706
+SLangusT_00658	Scaffold_3	11992	12261	+	269.0	NO	NO	NO	NO
+SLangusT_00659	Scaffold_3	14513	14842	-	329.0	NO	NO	NO	NO
+SLangusT_00660	Scaffold_3	15797	16210	-	413.0	NO	SignalP_EUK	NO	NO
+SLangusT_00661	Scaffold_3	19165	21217	-	2052.0	NO	NO	NO	NO
+SLangusT_00662	Scaffold_3	21803	25364	-	3561.0	NO	NO	NO	Protein of unknown function (DUF3659)_pfam12396
+SLangusT_00663	Scaffold_3	25603	25947	-	344.0	NO	NO	NO	NO
+SLangusT_00664	Scaffold_3	27259	30284	-	3025.0	NO	NO	NO	NO
+SLangusT_00665	Scaffold_3	31589	32468	-	879.0	NO	NO	NO	NO
+SLangusT_00666	Scaffold_3	33440	34141	+	701.0	NO	SignalP_EUK	NO	NO
+SLangusT_00667	Scaffold_3	34781	35304	+	523.0	0.997	NO	NO	NO
+SLangusT_00668	Scaffold_3	37050	37589	-	539.0	NO	NO	NO	NO
+SLangusT_00669	Scaffold_3	37892	38263	-	371.0	0.934	NO	NO	NO
+SLangusT_00670	Scaffold_3	38550	39098	-	548.0	0.988	NO	NO	NO
+SLangusT_00671	Scaffold_3	39413	39802	-	389.0	NO	NO	NO	NO
+SLangusT_00672	Scaffold_3	40113	40709	-	596.0	0.987	NO	NO	NO
+SLangusT_00673	Scaffold_3	41247	41514	-	267.0	NO	NO	NO	NO
+SLangusT_00674	Scaffold_3	42042	42522	-	480.0	0.936	NO	NO	NO
+SLangusT_00675	Scaffold_3	42785	43204	-	419.0	NO	NO	NO	NO
+SLangusT_00676	Scaffold_3	43475	44185	-	710.0	NO	NO	NO	NO
+SLangusT_00677	Scaffold_3	44709	45533	-	824.0	NO	NO	NO	NO
+SLangusT_00678	Scaffold_3	46056	46649	-	593.0	0.834	NO	NO	NO
+SLangusT_00679	Scaffold_3	47471	47962	+	491.0	0.897	NO	NO	NO
+SLangusT_00680	Scaffold_3	50722	52190	+	1468.0	NO	SignalP_EUK	GH5.hmm	Fungal cellulose binding domain_pfam00734;Cellulase (glycosyl hydrolase family 5)_pfam00150
+SLangusT_00681	Scaffold_3	52547	53170	-	623.0	NO	NO	NO	Acetyltransferase (GNAT) family_pfam00583
+SLangusT_00682	Scaffold_3	53979	54614	+	635.0	NO	SignalP_EUK	NO	NO
+SLangusT_00683	Scaffold_3	56750	57018	-	268.0	0.884	SignalP_EUK	NO	NO
+SLangusT_00684	Scaffold_3	61145	62560	-	1415.0	NO	NO	NO	FAD dependent oxidoreductase_pfam01266
+SLangusT_00685	Scaffold_3	63419	64201	+	782.0	0.835	NO	NO	Glutathione peroxidase_pfam00255
+SLangusT_00686	Scaffold_3	67954	68928	-	974.0	NO	NO	NO	Dihydrodipicolinate synthetase family_pfam00701
+SLangusT_00687	Scaffold_3	70651	71990	+	1339.0	NO	NO	GH109.hmm	Oxidoreductase family, NAD-binding Rossmann fold_pfam01408
+SLangusT_00688	Scaffold_3	73298	73776	-	478.0	NO	SignalP_EUK	NO	NO
+SLangusT_00689	Scaffold_3	76805	78175	-	1370.0	NO	NO	NO	Alcohol dehydrogenase GroES-like domain_pfam08240;Zinc-binding dehydrogenase_pfam00107
+SLangusT_00690	Scaffold_3	79611	81959	-	2348.0	NO	NO	NO	Fungal specific transcription factor domain_pfam04082;Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172
+SLangusT_00691	Scaffold_3	82436	83068	+	632.0	0.848	NO	NO	NO
+SLangusT_00692	Scaffold_3	84773	86772	+	1999.0	NO	SignalP_EUK	AA3.hmm	GMC oxidoreductase_pfam00732;GMC oxidoreductase_pfam05199
+SLangusT_00693	Scaffold_3	88915	92307	-	3392.0	NO	NO	NO	Male sterility protein_pfam07993;AMP-binding enzyme_pfam00501;Phosphopantetheine attachment site_pfam00550
+SLangusT_00694	Scaffold_3	92465	93762	+	1297.0	NO	NO	NO	NO
+SLangusT_00695	Scaffold_3	94547	95805	+	1258.0	NO	NO	NO	Aldo/keto reductase family_pfam00248
+SLangusT_00696	Scaffold_3	97064	100415	+	3351.0	NO	NO	NO	AMP-binding enzyme_pfam00501;Male sterility protein_pfam07993;Phosphopantetheine attachment site_pfam00550
+SLangusT_00697	Scaffold_3	102493	104184	-	1691.0	NO	SignalP_EUK	CE10.hmm	Carboxylesterase family_pfam00135
+SLangusT_00698	Scaffold_3	109183	110489	+	1306.0	NO	NO	NO	Protein of unknown function (DUF3435)_pfam11917
+SLangusT_00699	Scaffold_3	110662	111735	-	1073.0	NO	NO	NO	NO
+SLangusT_00700	Scaffold_3	114996	115950	-	954.0	NO	NO	NO	Haloacid dehalogenase-like hydrolase_pfam13419
+SLangusT_00701	Scaffold_3	117256	117582	-	326.0	NO	NO	NO	NO
+SLangusT_00702	Scaffold_3	117895	118823	-	928.0	NO	NO	NO	NO
+SLangusT_00703	Scaffold_3	120096	121721	+	1625.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00704	Scaffold_3	122379	123915	-	1536.0	NO	NO	NO	NO
+SLangusT_00705	Scaffold_3	126165	127634	-	1469.0	NO	NO	NO	NO
+SLangusT_00706	Scaffold_3	127872	128642	-	770.0	NO	NO	NO	NO
+SLangusT_00707	Scaffold_3	132745	134207	-	1462.0	NO	NO	NO	O-methyltransferase_pfam00891
+SLangusT_00708	Scaffold_3	134662	136018	-	1356.0	NO	NO	NO	O-methyltransferase_pfam00891
+SLangusT_00709	Scaffold_3	136172	137380	+	1208.0	0.818	NO	NO	NO
+SLangusT_00710	Scaffold_3	138507	139172	-	665.0	0.983	NO	NO	NO
+SLangusT_00711	Scaffold_3	140865	143742	+	2877.0	NO	NO	NO	AMP-binding enzyme_pfam00501;Thioesterase domain_pfam00975;Phosphopantetheine attachment site_pfam00550
+SLangusT_00712	Scaffold_3	144321	145485	+	1164.0	NO	NO	NO	NAD binding domain of 6-phosphogluconate dehydrogenase_pfam03446
+SLangusT_00713	Scaffold_3	145881	146862	-	981.0	NO	NO	NO	Glutathione S-transferase, N-terminal domain_pfam02798;Glutathione S-transferase, C-terminal domain_pfam00043
+SLangusT_00714	Scaffold_3	147424	149552	+	2128.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00715	Scaffold_3	150203	151871	+	1668.0	NO	NO	NO	Cytochrome P450_pfam00067
+SLangusT_00716	Scaffold_3	152718	153953	-	1235.0	NO	NO	NO	NO
+SLangusT_00717	Scaffold_3	155055	156402	-	1347.0	NO	NO	NO	Transaldolase/Fructose-6-phosphate aldolase_pfam00923
+SLangusT_00718	Scaffold_3	157079	157429	+	350.0	NO	NO	NO	NO
+SLangusT_00719	Scaffold_3	158484	159580	+	1096.0	NO	NO	NO	50S ribosome-binding GTPase_pfam01926
+SLangusT_00720	Scaffold_3	162591	165466	-	2875.0	NO	NO	NO	Tudor domain_pfam00567;Staphylococcal nuclease homologue_pfam00565
+SLangusT_00721	Scaffold_3	167019	167680	-	661.0	0.961	SignalP_EUK	NO	Copper/zinc superoxide dismutase (SODC)_pfam00080
+SLangusT_00722	Scaffold_3	171017	176461	+	5444.0	NO	NO	NO	RhoGEF domain_pfam00621;Pleckstrin homology domain_pfam15405;CNH domain_pfam00780
+SLangusT_00723	Scaffold_3	177406	180535	-	3129.0	NO	NO	NO	tRNA synthetases class I (M)_pfam09334;Anticodon-binding domain of tRNA_pfam08264;tRNA synthetases class I (I, L, M and V)_pfam00133;Leucyl-tRNA synthetase, Domain 2_pfam13603
+SLangusT_00724	Scaffold_3	181382	183283	+	1901.0	NO	NO	NO	Amino acid permease_pfam13520
+SLangusT_00725	Scaffold_3	188849	189742	-	893.0	NO	NO	NO	Fungal protein of unknown function (DUF2011)_pfam09428
+SLangusT_00726	Scaffold_3	190659	192584	-	1925.0	NO	NO	NO	NDT80 / PhoG like DNA-binding  family_pfam05224
+SLangusT_00727	Scaffold_3	194860	196447	+	1587.0	NO	NO	NO	NO
+SLangusT_00728	Scaffold_3	197543	198729	+	1186.0	NO	NO	NO	NO
+SLangusT_00729	Scaffold_3	199857	200292	-	435.0	NO	NO	NO	NO
+SLangusT_00730	Scaffold_3	201193	202316	-	1123.0	NO	NO	NO	Methyltransferase small domain_pfam05175
+SLangusT_00731	Scaffold_3	202745	204141	+	1396.0	NO	NO	NO	FMN-dependent dehydrogenase_pfam01070
+SLangusT_00732	Scaffold_3	204723	206324	+	1601.0	NO	NO	NO	Cytochrome b5-like Heme/Steroid binding domain_pfam00173;FMN-dependent dehydrogenase_pfam01070
+SLangusT_00733	Scaffold_3	207586	208176	+	590.0	NO	NO	NO	NO
+SLangusT_00734	Scaffold_3	213027	213837	-	810.0	0.97	NO	NO	NO
+SLangusT_00735	Scaffold_3	216791	217124	-	333.0	NO	NO	NO	NO
+SLangusT_00736	Scaffold_3	220186	221324	-	1138.0	0.926	NO	NO	NO
+SLangusT_00737	Scaffold_3	221991	222755	+	764.0	NO	NO	NO	NO
+SLangusT_00738	Scaffold_3	223376	226641	+	3265.0	NO	NO	NO	Mediator complex subunit Med5_pfam08689
+SLangusT_00739	Scaffold_3	227052	228966	+	1914.0	NO	NO	NO	Sas10/Utp3/C1D family_pfam04000;Sas10 C-terminal domain_pfam09368
+SLangusT_00740	Scaffold_3	229459	231434	+	1975.0	NO	NO	CBM18.hmm	Glycosyl hydrolases family 18_pfam00704;Chitin recognition protein_pfam00187
+SLangusT_00741	Scaffold_3	232201	233676	-	1475.0	NO	NO	NO	NO
+SLangusT_00742	Scaffold_3	235062	236540	-	1478.0	NO	NO	NO	NO
+SLangusT_00743	Scaffold_3	239371	242968	-	3597.0	NO	NO	NO	Timeless protein C terminal region_pfam05029;Timeless protein_pfam04821
+SLangusT_00744	Scaffold_3	243288	244380	+	1092.0	NO	NO	NO	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain_pfam02737;3-hydroxyacyl-CoA dehydrogenase, C-terminal domain_pfam00725
+SLangusT_00745	Scaffold_3	244547	245074	-	527.0	0.99	NO	NO	NO
+SLangusT_00746	Scaffold_3	245323	246186	+	863.0	NO	NO	NO	NO
+SLangusT_00747	Scaffold_3	246473	248573	-	2100.0	NO	NO	NO	Homeobox domain_pfam00046
+SLangusT_00748	Scaffold_3	254555	254888	-	333.0	0.963	NO	NO	NO
+SLangusT_00749	Scaffold_3	255576	256124	+	548.0	0.967	NO	NO	NO
+SLangusT_00750	Scaffold_3	259317	263899	-	4582.0	NO	NO	NO	AAA domain_pfam13086;Intron-binding protein aquarius N-terminus_pfam16399;AAA domain_pfam13087
+SLangusT_00751	Scaffold_3	264169	266320	+	2151.0	NO	NO	NO	THO complex subunit 1 transcription elongation factor_pfam11957
+SLangusT_00752	Scaffold_3	266526	267336	+	810.0	NO	NO	NO	NO
+SLangusT_00753	Scaffold_3	267858	269373	+	1515.0	NO	NO	NO	Zinc finger, C3HC4 type (RING finger)_pfam13923;ATP-dependent protease La (LON) substrate-binding domain_pfam02190
+SLangusT_00754	Scaffold_3	270151	272061	-	1910.0	NO	NO	NO	NO
+SLangusT_00755	Scaffold_3	273142	274255	-	1113.0	NO	NO	NO	NO
+SLangusT_00756	Scaffold_3	275098	278271	+	3173.0	NO	NO	NO	Zinc finger, C3HC4 type (RING finger)_pfam00097
+SLangusT_00757	Scaffold_3	278991	280159	+	1168.0	NO	NO	NO	NO
+SLangusT_00758	Scaffold_3	282031	283210	-	1179.0	NO	NO	NO	NO
+SLangusT_00759	Scaffold_3	284238	285601	-	1363.0	NO	NO	NO	NO
+SLangusT_00760	Scaffold_3	287065	288325	+	1260.0	NO	NO	NO	NO
+SLangusT_00761	Scaffold_3	289258	289544	+	286.0	NO	NO	NO	NO
+SLangusT_00762	Scaffold_3	289897	290692	-	795.0	NO	NO	NO	NO
+SLangusT_00763	Scaffold_3	291397	291857	-	460.0	0.9	NO	NO	NO
+SLangusT_00764	Scaffold_3	293390	294788	+	1398.0	NO	NO	NO	FAD binding domain_pfam01494
+SLangusT_00765	Scaffold_3	296799	298153	-	1354.0	NO	NO	NO	NO
+SLangusT_00766	Scaffold_3	298967	299796	-	829.0	NO	NO	NO	NO
+SLangusT_00767	Scaffold_3	300069	301534	+	1465.0	NO	NO	NO	GDP-mannose 4,6 dehydratase_pfam16363
+SLangusT_00768	Scaffold_3	304347	305691	+	1344.0	NO	NO	NO	Methyltransferase domain_pfam13489
+SLangusT_00769	Scaffold_3	307324	308600	-	1276.0	NO	NO	NO	AdoMet dependent proline di-methyltransferase_pfam05891
+SLangusT_00770	Scaffold_3	309312	311262	-	1950.0	NO	SignalP_EUK	CBM18.hmm	Polysaccharide deacetylase_pfam01522
+SLangusT_00771	Scaffold_3	311310	311549	+	239.0	NO	NO	NO	NO
+SLangusT_00772	Scaffold_3	313157	315224	-	2067.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00773	Scaffold_3	317002	317709	+	707.0	NO	NO	NO	NO
+SLangusT_00774	Scaffold_3	317962	319206	-	1244.0	NO	NO	NO	Brix domain_pfam04427
+SLangusT_00775	Scaffold_3	319602	321842	+	2240.0	NO	NO	NO	tRNA synthetase class II core domain (G, H, P, S and T)_pfam00587;Anticodon binding domain_pfam03129
+SLangusT_00776	Scaffold_3	323979	326871	+	2892.0	NO	NO	NO	P21-Rho-binding domain_pfam00786;Protein kinase domain_pfam00069
+SLangusT_00777	Scaffold_3	327790	329807	+	2017.0	NO	NO	NO	NO
+SLangusT_00778	Scaffold_3	330672	331971	-	1299.0	NO	NO	NO	DnaJ C terminal domain_pfam01556;DnaJ domain_pfam00226
+SLangusT_00779	Scaffold_3	333595	336409	-	2814.0	NO	NO	NO	UBA-like domain_pfam14555
+SLangusT_00780	Scaffold_3	337739	338398	-	659.0	NO	NO	NO	NO
+SLangusT_00781	Scaffold_3	338882	339687	-	805.0	NO	NO	NO	Ubiquitin-conjugating enzyme_pfam00179
+SLangusT_00782	Scaffold_3	341120	343372	-	2252.0	NO	NO	NO	Spindle pole body formation-associated protein_pfam11500
+SLangusT_00783	Scaffold_3	343738	345571	+	1833.0	NO	NO	NO	Origin recognition complex subunit 2_pfam04084
+SLangusT_00784	Scaffold_3	346085	347539	+	1454.0	NO	NO	NO	IPP transferase_pfam01715
+SLangusT_00785	Scaffold_3	349704	353440	+	3736.0	NO	NO	NO	Cation transport ATPase (P-type)_pfam13246;Cation transporter/ATPase, N-terminus_pfam00690;E1-E2 ATPase_pfam00122;haloacid dehalogenase-like hydrolase_pfam00702;Cation transporting ATPase, C-terminus_pfam00689
+SLangusT_00786	Scaffold_3	354354	355952	+	1598.0	NO	NO	NO	Plug domain of Sec61p_pfam10559;SecY translocase_pfam00344
+SLangusT_00787	Scaffold_3	357749	358455	+	706.0	NO	NO	NO	NO
+SLangusT_00788	Scaffold_3	359361	364535	+	5174.0	NO	NO	NO	ABC transporter_pfam00005;ABC transporter transmembrane region_pfam00664
+SLangusT_00789	Scaffold_3	367114	368614	-	1500.0	NO	SignalP_EUK	NO	Eukaryotic aspartyl protease_pfam00026
+SLangusT_00790	Scaffold_3	371262	373113	+	1851.0	NO	NO	NO	Cytochrome P450_pfam00067
+SLangusT_00791	Scaffold_3	373778	379761	-	5983.0	NO	NO	NO	Histidyl-tRNA synthetase_pfam13393;RWD domain_pfam05773;Protein kinase domain_pfam00069;Anticodon binding domain of tRNAs_pfam12745
+SLangusT_00792	Scaffold_3	380277	381805	+	1528.0	NO	NO	NO	ArgJ family_pfam01960
+SLangusT_00793	Scaffold_3	382222	382990	-	768.0	0.822	NO	NO	NADH ubiquinone oxidoreductase subunit NDUFA12_pfam05071
+SLangusT_00794	Scaffold_3	383196	384982	+	1786.0	NO	NO	NO	NO
+SLangusT_00795	Scaffold_3	385232	387008	-	1776.0	NO	SignalP_EUK	GH27.hmm	Alpha galactosidase A_pfam16499
+SLangusT_00796	Scaffold_3	389663	390367	-	704.0	0.987	NO	NO	NO
+SLangusT_00797	Scaffold_3	390494	391483	+	989.0	NO	NO	NO	Alpha/beta hydrolase family_pfam12697
+SLangusT_00798	Scaffold_3	392099	392582	-	483.0	NO	NO	NO	NO
+SLangusT_00799	Scaffold_3	394183	394922	+	739.0	NO	NO	NO	NO
+SLangusT_00800	Scaffold_3	395376	397722	-	2346.0	NO	NO	NO	NO
+SLangusT_00801	Scaffold_3	400058	401529	+	1471.0	NO	NO	NO	eRF1 domain 2_pfam03464;eRF1 domain 1_pfam03463;eRF1 domain 3_pfam03465
+SLangusT_00802	Scaffold_3	402447	403586	+	1139.0	NO	NO	NO	Prephenate dehydratase_pfam00800
+SLangusT_00803	Scaffold_3	403849	405425	+	1576.0	NO	NO	NO	NO
+SLangusT_00804	Scaffold_3	407369	411659	+	4290.0	NO	NO	NO	NO
+SLangusT_00805	Scaffold_3	412549	415612	-	3063.0	NO	NO	NO	Region in Clathrin and VPS_pfam00637;Pep3/Vps18/deep orange family_pfam05131
+SLangusT_00806	Scaffold_3	418958	419523	-	565.0	NO	NO	NO	NO
+SLangusT_00807	Scaffold_3	420740	423664	+	2924.0	NO	NO	NO	Ras-binding domain of Byr2_pfam14847;SAM domain (Sterile alpha motif)_pfam00536;Protein kinase domain_pfam00069
+SLangusT_00808	Scaffold_3	424542	425775	+	1233.0	NO	NO	NO	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)_pfam00076;Torus domain_pfam16131
+SLangusT_00809	Scaffold_3	425965	426961	-	996.0	NO	NO	NO	UreF_pfam01730
+SLangusT_00810	Scaffold_3	428184	428806	+	622.0	0.975	NO	NO	Membrane-associating domain_pfam01284
+SLangusT_00811	Scaffold_3	429341	429788	-	447.0	0.999	NO	NO	NO
+SLangusT_00812	Scaffold_3	430801	432092	-	1291.0	NO	NO	NO	NO
+SLangusT_00813	Scaffold_3	432714	433417	+	703.0	NO	NO	NO	Fungal protein of unknown function (DUF1770)_pfam08589
+SLangusT_00814	Scaffold_3	433874	435959	-	2085.0	NO	NO	NO	WSTF, HB1, Itc1p, MBD9 motif 1_pfam15612
+SLangusT_00815	Scaffold_3	436234	436707	+	473.0	NO	NO	NO	NO
+SLangusT_00816	Scaffold_3	438048	439084	+	1036.0	NO	NO	NO	Ribosomal Proteins L2, RNA binding domain_pfam00181;Ribosomal Proteins L2, C-terminal domain_pfam03947
+SLangusT_00817	Scaffold_3	439539	440893	+	1354.0	NO	NO	NO	pfkB family carbohydrate kinase_pfam00294
+SLangusT_00818	Scaffold_3	441318	443971	-	2653.0	NO	NO	NO	Est1 DNA/RNA binding domain_pfam10373;Telomerase activating protein Est1_pfam10374
+SLangusT_00819	Scaffold_3	444836	445729	+	893.0	NO	NO	NO	NO
+SLangusT_00820	Scaffold_3	446161	446978	-	817.0	NO	NO	NO	Autophagy-related protein 101_pfam07855
+SLangusT_00821	Scaffold_3	447417	449085	+	1668.0	NO	NO	NO	Peroxin-3_pfam04882
+SLangusT_00822	Scaffold_3	449612	450249	-	637.0	0.927	NO	NO	Sybindin-like family_pfam04099
+SLangusT_00823	Scaffold_3	450651	453251	+	2600.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00824	Scaffold_3	454447	454965	-	518.0	1.0	NO	NO	G10 protein_pfam01125
+SLangusT_00825	Scaffold_3	455271	456065	+	794.0	NO	NO	NO	Complex1_LYR-like_pfam13233
+SLangusT_00826	Scaffold_3	456198	456845	-	647.0	NO	NO	NO	RNA polymerase Rpb3/Rpb11 dimerisation domain_pfam13656
+SLangusT_00827	Scaffold_3	458233	458597	+	364.0	NO	NO	NO	NO
+SLangusT_00828	Scaffold_3	458988	459245	-	257.0	NO	NO	NO	NO
+SLangusT_00829	Scaffold_3	463640	465053	+	1413.0	NO	NO	NO	NO
+SLangusT_00830	Scaffold_3	466884	468767	-	1883.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00831	Scaffold_3	477922	480204	-	2282.0	NO	NO	NO	Forkhead domain_pfam00250
+SLangusT_00832	Scaffold_3	480398	481428	+	1030.0	0.998	NO	NO	NO
+SLangusT_00833	Scaffold_3	482647	482964	+	317.0	0.92	NO	NO	NO
+SLangusT_00834	Scaffold_3	483404	485479	-	2075.0	NO	NO	NO	Stretch-activated Ca2+-permeable channel component_pfam12929
+SLangusT_00835	Scaffold_3	486271	486999	-	728.0	NO	NO	NO	TB2/DP1, HVA22 family_pfam03134
+SLangusT_00836	Scaffold_3	489099	491598	+	2499.0	NO	NO	NO	RFX DNA-binding domain_pfam02257
+SLangusT_00837	Scaffold_3	492753	494568	+	1815.0	NO	NO	NO	ACT domain_pfam13840;Amino acid kinase family_pfam00696
+SLangusT_00838	Scaffold_3	496187	496682	-	495.0	0.997	NO	NO	NO
+SLangusT_00839	Scaffold_3	498143	500178	+	2035.0	NO	NO	NO	Permease family_pfam00860
+SLangusT_00840	Scaffold_3	501677	503451	-	1774.0	NO	NO	NO	Universal stress protein family_pfam00582
+SLangusT_00841	Scaffold_3	504061	505588	-	1527.0	NO	NO	NO	RNA polymerase I-associated factor PAF67_pfam10255
+SLangusT_00842	Scaffold_3	506323	509572	-	3249.0	NO	NO	NO	Cse1_pfam08506;Importin-beta N-terminal domain_pfam03810;CAS/CSE protein, C-terminus_pfam03378
+SLangusT_00843	Scaffold_3	510377	515924	+	5547.0	NO	NO	NO	Domain of unknown function (DUF3384)_pfam11864;Tuberin_pfam03542;Rap/ran-GAP_pfam02145
+SLangusT_00844	Scaffold_3	516666	517127	-	461.0	0.813	NO	NO	NO
+SLangusT_00845	Scaffold_3	517376	517880	+	504.0	0.856	NO	NO	Spt4/RpoE2 zinc finger_pfam06093
+SLangusT_00846	Scaffold_3	518528	519611	-	1083.0	NO	NO	NO	Domain of Kin17 curved DNA-binding protein_pfam10357;Zinc-finger double-stranded RNA-binding_pfam12171
+SLangusT_00847	Scaffold_3	521402	522428	-	1026.0	NO	SignalP_EUK	NO	NO
+SLangusT_00848	Scaffold_3	522876	523215	+	339.0	0.997	NO	NO	NO
+SLangusT_00849	Scaffold_3	524931	525263	-	332.0	0.91	NO	NO	NO
+SLangusT_00850	Scaffold_3	526700	527660	+	960.0	NO	SignalP_EUK	NO	NO
+SLangusT_00851	Scaffold_3	528143	529643	-	1500.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00852	Scaffold_3	530046	531718	+	1672.0	NO	NO	NO	Putative S-adenosyl-L-methionine-dependent methyltransferase_pfam02636
+SLangusT_00853	Scaffold_3	532901	534115	-	1214.0	NO	NO	NO	Phosphoenolpyruvate hydrolase-like_pfam09370
+SLangusT_00854	Scaffold_3	534982	536247	+	1265.0	NO	NO	NO	Uncharacterised protein family (UPF0261)_pfam06792
+SLangusT_00855	Scaffold_3	537073	538719	-	1646.0	NO	NO	NO	Abscisic acid G-protein coupled receptor_pfam12430;The Golgi pH Regulator (GPHR) Family N-terminal_pfam12537
+SLangusT_00856	Scaffold_3	539497	541232	-	1735.0	NO	NO	NO	NO
+SLangusT_00857	Scaffold_3	542292	542642	+	350.0	NO	NO	NO	NO
+SLangusT_00858	Scaffold_3	543988	546736	-	2748.0	NO	NO	NO	ATPase family associated with various cellular activities (AAA)_pfam00004;Peptidase family M41_pfam01434;FtsH Extracellular_pfam06480
+SLangusT_00859	Scaffold_3	547340	550282	-	2942.0	NO	NO	NO	Fungal specific transcription factor domain_pfam04082;Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172
+SLangusT_00860	Scaffold_3	552204	553932	-	1728.0	NO	NO	NO	NO
+SLangusT_00861	Scaffold_3	556051	558187	+	2136.0	NO	NO	NO	NO
+SLangusT_00862	Scaffold_3	558829	561234	+	2405.0	NO	NO	NO	HCO3- transporter family_pfam00955
+SLangusT_00863	Scaffold_3	562411	562771	+	360.0	NO	NO	NO	NO
+SLangusT_00864	Scaffold_3	564039	565626	-	1587.0	NO	NO	NO	Catalase_pfam00199;Catalase-related immune-responsive_pfam06628
+SLangusT_00865	Scaffold_3	566364	566856	-	492.0	0.932	SignalP_EUK	NO	NO
+SLangusT_00866	Scaffold_3	568011	568839	-	828.0	NO	NO	NO	ADP-ribosylation factor family_pfam00025
+SLangusT_00867	Scaffold_3	569371	569884	+	513.0	NO	NO	NO	Ribosomal L39 protein_pfam00832
+SLangusT_00868	Scaffold_3	572379	573094	-	715.0	NO	NO	NO	Skp1 family, dimerisation domain_pfam01466;Skp1 family, tetramerisation domain_pfam03931
+SLangusT_00869	Scaffold_3	574882	576718	+	1836.0	NO	SignalP_EUK	GT22.hmm	Alg9-like mannosyltransferase family_pfam03901
+SLangusT_00870	Scaffold_3	577975	579636	-	1661.0	NO	NO	NO	NO
+SLangusT_00871	Scaffold_3	580580	581482	+	902.0	NO	NO	NO	NO
+SLangusT_00872	Scaffold_3	586648	587619	+	971.0	NO	NO	NO	14-3-3 protein_pfam00244
+SLangusT_00873	Scaffold_3	588980	591178	-	2198.0	NO	NO	NO	NO
+SLangusT_00874	Scaffold_4	11177	11701	+	524.0	NO	NO	NO	NO
+SLangusT_00875	Scaffold_4	16305	17561	-	1256.0	NO	NO	NO	NO
+SLangusT_00876	Scaffold_4	17825	18471	-	646.0	NO	NO	NO	NO
+SLangusT_00877	Scaffold_4	19928	22537	-	2609.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00878	Scaffold_4	23056	23385	+	329.0	1.0	NO	NO	Translation machinery associated TMA7_pfam09072
+SLangusT_00879	Scaffold_4	23972	25273	-	1301.0	NO	NO	NO	NO
+SLangusT_00880	Scaffold_4	26244	27804	+	1560.0	NO	NO	NO	Annexin_pfam00191
+SLangusT_00881	Scaffold_4	29619	32517	+	2898.0	NO	NO	NO	NO
+SLangusT_00882	Scaffold_4	35357	36356	+	999.0	NO	SignalP_EUK	NO	Trypsin_pfam00089
+SLangusT_00883	Scaffold_4	36740	38546	-	1806.0	NO	NO	NO	Amino acid permease_pfam13520
+SLangusT_00884	Scaffold_4	48463	49013	+	550.0	0.913	NO	NO	NO
+SLangusT_00885	Scaffold_4	51409	52892	+	1483.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00886	Scaffold_4	59443	60235	+	792.0	0.996	NO	NO	NO
+SLangusT_00887	Scaffold_4	61534	63118	-	1584.0	NO	NO	NO	RING-variant domain_pfam12906
+SLangusT_00888	Scaffold_4	64385	65983	+	1598.0	NO	NO	GT31.hmm	Protein of unknown function, DUF604_pfam04646
+SLangusT_00889	Scaffold_4	67619	69187	+	1568.0	NO	NO	NO	Galactokinase galactose-binding signature_pfam10509;GHMP kinases C terminal_pfam08544;GHMP kinases N terminal domain_pfam00288
+SLangusT_00890	Scaffold_4	69847	71420	+	1573.0	NO	NO	NO	NO
+SLangusT_00891	Scaffold_4	72115	74519	+	2404.0	NO	NO	NO	Thiamine pyrophosphate enzyme, central domain_pfam00205;Thiamine pyrophosphate enzyme, N-terminal TPP binding domain_pfam02776;Thiamine pyrophosphate enzyme, C-terminal TPP binding domain_pfam02775
+SLangusT_00892	Scaffold_4	76437	79941	+	3504.0	NO	NO	NO	Cation transporter/ATPase, N-terminus_pfam00690;haloacid dehalogenase-like hydrolase_pfam00702;Cation transporting ATPase, C-terminus_pfam00689;E1-E2 ATPase_pfam00122
+SLangusT_00893	Scaffold_4	81365	82089	-	724.0	NO	NO	NO	NO
+SLangusT_00894	Scaffold_4	82535	85483	+	2948.0	NO	NO	NO	ABC transporter_pfam00005
+SLangusT_00895	Scaffold_4	86256	87668	+	1412.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00896	Scaffold_4	88187	88834	-	647.0	0.994	NO	NO	NO
+SLangusT_00897	Scaffold_4	91100	93469	-	2369.0	NO	NO	NO	NO
+SLangusT_00898	Scaffold_4	94109	96028	-	1919.0	NO	NO	NO	Ubiquitin carboxyl-terminal hydrolase_pfam00443
+SLangusT_00899	Scaffold_4	96752	97715	+	963.0	NO	NO	NO	Ribosomal protein L9, N-terminal domain_pfam01281
+SLangusT_00900	Scaffold_4	98027	98240	+	213.0	1.0	NO	NO	NO
+SLangusT_00901	Scaffold_4	98851	100147	+	1296.0	NO	NO	NO	Fructose-bisphosphate aldolase class-II_pfam01116
+SLangusT_00902	Scaffold_4	101598	102867	+	1269.0	NO	NO	NO	Oxysterol-binding protein_pfam01237
+SLangusT_00903	Scaffold_4	106597	107999	-	1402.0	NO	NO	NO	Brix domain_pfam04427
+SLangusT_00904	Scaffold_4	108291	109786	+	1495.0	NO	NO	NO	DEAD/DEAH box helicase_pfam00270;Helicase conserved C-terminal domain_pfam00271
+SLangusT_00905	Scaffold_4	110052	113653	+	3601.0	NO	NO	NO	PHD-finger_pfam00628;CoA-transferase family III_pfam02515
+SLangusT_00906	Scaffold_4	115713	116759	-	1046.0	NO	NO	NO	Protein of unknown function (DUF1749)_pfam08538
+SLangusT_00907	Scaffold_4	117120	117948	+	828.0	NO	NO	NO	NO
+SLangusT_00908	Scaffold_4	119313	120318	-	1005.0	0.956	NO	NO	Ras family_pfam00071
+SLangusT_00909	Scaffold_4	122968	126684	+	3716.0	NO	NO	NO	Salt tolerance down-regulator_pfam13945
+SLangusT_00910	Scaffold_4	128189	128763	-	574.0	0.986	NO	NO	NO
+SLangusT_00911	Scaffold_4	130391	131976	+	1585.0	NO	NO	NO	NO
+SLangusT_00912	Scaffold_4	132902	134227	+	1325.0	NO	NO	NO	NO
+SLangusT_00913	Scaffold_4	139795	140781	-	986.0	NO	NO	NO	NO
+SLangusT_00914	Scaffold_4	141742	142537	+	795.0	0.996	NO	NO	NO
+SLangusT_00915	Scaffold_4	146169	147083	-	914.0	NO	NO	NO	NO
+SLangusT_00916	Scaffold_4	147645	148115	+	470.0	1.0	NO	NO	NO
+SLangusT_00917	Scaffold_4	148701	149084	+	383.0	0.959	NO	NO	Peptidase inhibitor I78 family_pfam11720
+SLangusT_00918	Scaffold_4	149415	150181	+	766.0	0.971	NO	NO	PUA domain_pfam01472
+SLangusT_00919	Scaffold_4	154903	156006	+	1103.0	NO	NO	NO	3-beta hydroxysteroid dehydrogenase/isomerase family_pfam01073
+SLangusT_00920	Scaffold_4	156470	156707	+	237.0	NO	NO	NO	NO
+SLangusT_00921	Scaffold_4	160041	160371	+	330.0	NO	NO	NO	NO
+SLangusT_00922	Scaffold_4	162975	163825	-	850.0	NO	NO	NO	NO
+SLangusT_00923	Scaffold_4	164604	165755	+	1151.0	NO	SignalP_EUK	NO	NO
+SLangusT_00924	Scaffold_4	166485	167618	+	1133.0	NO	NO	NO	Histone-like transcription factor (CBF/NF-Y) and archaeal histone_pfam00808
+SLangusT_00925	Scaffold_4	171610	175237	-	3627.0	NO	NO	NO	NO
+SLangusT_00926	Scaffold_4	178486	179781	-	1295.0	NO	NO	NO	NO
+SLangusT_00927	Scaffold_4	181869	183154	-	1285.0	NO	NO	NO	S-adenosylmethionine synthetase, C-terminal domain_pfam02773;S-adenosylmethionine synthetase, N-terminal domain_pfam00438;S-adenosylmethionine synthetase, central domain_pfam02772
+SLangusT_00928	Scaffold_4	184253	185243	+	990.0	NO	NO	NO	Conserved hypothetical ATP binding protein_pfam03029
+SLangusT_00929	Scaffold_4	187605	190506	-	2901.0	NO	NO	NO	DNA replication regulator SLD3_pfam08639
+SLangusT_00930	Scaffold_4	192541	196655	+	4114.0	NO	NO	NO	Protein kinase domain_pfam00069
+SLangusT_00931	Scaffold_4	199998	201807	-	1809.0	NO	NO	NO	Ammonium Transporter Family_pfam00909
+SLangusT_00932	Scaffold_4	203984	204557	-	573.0	NO	NO	NO	NO
+SLangusT_00933	Scaffold_4	208005	210018	-	2013.0	NO	NO	NO	Glutamine amidotransferase domain_pfam13537;Asparagine synthase_pfam00733
+SLangusT_00934	Scaffold_4	210477	213086	+	2609.0	NO	NO	NO	CUE domain_pfam02845;Vacuolar sorting protein 9 (VPS9) domain_pfam02204
+SLangusT_00935	Scaffold_4	213523	216123	+	2600.0	NO	NO	NO	NO
+SLangusT_00936	Scaffold_4	217930	220788	-	2858.0	NO	NO	NO	Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172;Fungal specific transcription factor domain_pfam04082
+SLangusT_00937	Scaffold_4	223486	225719	+	2233.0	NO	NO	NO	Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172;Fungal specific transcription factor domain_pfam04082
+SLangusT_00938	Scaffold_4	226148	229817	+	3669.0	NO	NO	NO	NO
+SLangusT_00939	Scaffold_4	230434	231281	-	847.0	NO	NO	NO	Acetyltransferase (GNAT) family_pfam00583
+SLangusT_00940	Scaffold_4	232789	236296	+	3507.0	NO	NO	NO	NO
+SLangusT_00941	Scaffold_4	237843	240436	-	2593.0	NO	NO	NO	Helix-hairpin-helix domain_pfam14716;DNA polymerase beta thumb_pfam14791;BRCA1 C Terminus (BRCT) domain_pfam00533;DNA polymerase beta palm_pfam14792;Fingers domain of DNA polymerase lambda_pfam10391
+SLangusT_00942	Scaffold_4	241058	241765	+	707.0	NO	NO	NO	NO
+SLangusT_00943	Scaffold_4	243420	244233	+	813.0	0.997	NO	NO	NO
+SLangusT_00944	Scaffold_4	245860	247724	-	1864.0	NO	NO	NO	TRAPP trafficking subunit Trs65_pfam12735
+SLangusT_00945	Scaffold_4	248014	250683	+	2669.0	NO	NO	NO	WW domain_pfam00397;FF domain_pfam01846
+SLangusT_00946	Scaffold_4	251417	253713	-	2296.0	NO	NO	NO	4Fe-4S binding domain_pfam00037;ABC transporter_pfam00005;Possible Fer4-like domain in RNase L inhibitor, RLI_pfam04068
+SLangusT_00947	Scaffold_4	254593	259888	+	5295.0	NO	NO	NO	SNF2 family N-terminal domain_pfam00176;Domain of unknown function (DUF4208)_pfam13907;Helicase conserved C-terminal domain_pfam00271;Chromo (CHRromatin Organisation MOdifier) domain_pfam00385
+SLangusT_00948	Scaffold_4	261317	261731	-	414.0	NO	NO	NO	NO
+SLangusT_00949	Scaffold_4	262676	264963	+	2287.0	NO	NO	NO	Sugar (and other) transporter_pfam00083
+SLangusT_00950	Scaffold_4	267286	269279	-	1993.0	NO	NO	NO	Sir2 family_pfam02146
+SLangusT_00951	Scaffold_4	270596	274075	+	3479.0	NO	NO	NO	Mediator complex subunit 16_pfam11635
+SLangusT_00952	Scaffold_4	274933	277361	-	2428.0	NO	NO	NO	Glutathione S-transferase, N-terminal domain_pfam13417
+SLangusT_00953	Scaffold_4	277819	279807	-	1988.0	NO	NO	NO	Ferric reductase like transmembrane component_pfam01794;Ferric reductase NAD binding domain_pfam08030;FAD-binding domain_pfam08022
+SLangusT_00954	Scaffold_4	282021	282542	+	521.0	NO	NO	NO	NO
+SLangusT_00955	Scaffold_4	284352	284687	-	335.0	NO	NO	NO	NO
+SLangusT_00956	Scaffold_4	289068	291413	+	2345.0	NO	NO	NO	NO
+SLangusT_00957	Scaffold_4	296448	297093	-	645.0	NO	NO	NO	NO
+SLangusT_00958	Scaffold_4	297384	298029	+	645.0	0.982	NO	NO	NO
+SLangusT_00959	Scaffold_4	299256	299602	-	346.0	NO	NO	NO	NO
+SLangusT_00960	Scaffold_4	300881	303175	+	2294.0	NO	NO	NO	Nitrogen Permease regulator of amino acid transport activity 3_pfam03666
+SLangusT_00961	Scaffold_4	308727	310127	-	1400.0	NO	NO	NO	Putative adipose-regulatory protein (Seipin)_pfam06775
+SLangusT_00962	Scaffold_4	310591	312099	+	1508.0	NO	NO	NO	Uncharacterized protein family UPF0029_pfam01205
+SLangusT_00963	Scaffold_4	317649	324333	-	6684.0	NO	NO	NO	Domain of unknown function (DUF3819)_pfam12842;CCR4-NOT transcription complex subunit 1 HEAT repeat_pfam16418;CCR4-NOT transcription complex subunit 1 CAF1-binding domain_pfam16415;CCR4-Not complex component, Not1_pfam04054;CCR4-NOT transcription complex subunit 1 TTP binding domain_pfam16417
+SLangusT_00964	Scaffold_4	325320	329346	+	4026.0	NO	NO	NO	SH3 domain_pfam00018;Fes/CIP4, and EFC/F-BAR homology domain_pfam00611
+SLangusT_00965	Scaffold_4	334224	336074	-	1850.0	NO	NO	NO	NO
+SLangusT_00966	Scaffold_4	337686	338497	+	811.0	NO	NO	NO	Nuclear transport factor 2 (NTF2) domain_pfam02136
+SLangusT_00967	Scaffold_4	339251	339990	+	739.0	NO	NO	NO	Uncharacterized conserved protein CG6151-P_pfam10233
+SLangusT_00968	Scaffold_4	340715	341178	+	463.0	NO	NO	NO	NO
+SLangusT_00969	Scaffold_4	342131	345441	+	3310.0	NO	NO	NO	Altered inheritance of mitochondria protein 21_pfam11489
+SLangusT_00970	Scaffold_4	348404	349868	+	1464.0	NO	SignalP_EUK	NO	Glycosyl hydrolase family 65, N-terminal domain_pfam03636
+SLangusT_00971	Scaffold_4	349909	350850	+	941.0	NO	NO	GH65.hmm	NO
+SLangusT_00972	Scaffold_4	350860	351659	+	799.0	NO	NO	NO	NO
+SLangusT_00973	Scaffold_4	353252	354568	+	1316.0	NO	NO	NO	Ankyrin repeats (3 copies)_pfam12796
+SLangusT_00974	Scaffold_4	355663	358284	-	2621.0	NO	NO	NO	Primase zinc finger_pfam09329
+SLangusT_00975	Scaffold_4	359070	360449	+	1379.0	NO	NO	NO	Ydr279p protein family (RNase H2 complex component)_pfam09468
+SLangusT_00976	Scaffold_4	360578	361340	-	762.0	0.974	NO	NO	DASH complex subunit Duo1_pfam08651
+SLangusT_00977	Scaffold_4	362042	363509	+	1467.0	NO	NO	NO	NO
+SLangusT_00978	Scaffold_4	364145	366647	+	2502.0	NO	NO	NO	Tubulin-tyrosine ligase family_pfam03133;Survival protein SurE_pfam01975
+SLangusT_00979	Scaffold_4	367389	368266	-	877.0	NO	NO	NO	HD domain_pfam01966
+SLangusT_00980	Scaffold_4	370131	373576	+	3445.0	NO	NO	NO	Major Facilitator Superfamily_pfam07690
+SLangusT_00981	Scaffold_4	374541	376935	-	2394.0	NO	NO	NO	Calcineurin-like phosphoesterase_pfam00149
+SLangusT_00982	Scaffold_4	378899	380649	-	1750.0	NO	NO	NO	Permease for cytosine/purines, uracil, thiamine, allantoin_pfam02133
+SLangusT_00983	Scaffold_4	382233	383045	-	812.0	NO	NO	NO	Methyltransferase domain_pfam13649
+SLangusT_00984	Scaffold_4	384139	388873	-	4734.0	NO	NO	NO	Fusaric acid resistance protein-like_pfam13515;Putative ER transporter, 6TM, N-terminal_pfam10337
+SLangusT_00985	Scaffold_4	389768	391421	+	1653.0	NO	NO	NO	Protein of unknown function (DUF592)_pfam04574;Sir2 family_pfam02146
+SLangusT_00986	Scaffold_4	393179	397656	-	4477.0	NO	NO	NO	haloacid dehalogenase-like hydrolase_pfam08282;Cation transport ATPase (P-type)_pfam13246;E1-E2 ATPase_pfam00122;Cation transporting ATPase, C-terminus_pfam00689;Cation transporter/ATPase, N-terminus_pfam00690
+SLangusT_00987	Scaffold_4	398934	400088	-	1154.0	NO	NO	NO	NO
+SLangusT_00988	Scaffold_4	400516	401187	-	671.0	NO	NO	NO	NO
+SLangusT_00989	Scaffold_4	404565	404813	+	248.0	0.912	NO	NO	NO
+SLangusT_00990	Scaffold_4	407304	407954	+	650.0	1.0	NO	NO	NO
+SLangusT_00991	Scaffold_4	410859	411551	-	692.0	0.875	NO	NO	NO
+SLangusT_00992	Scaffold_4	413424	415764	-	2340.0	NO	NO	NO	BOP1NT (NUC169) domain_pfam08145;WD domain, G-beta repeat_pfam00400
+SLangusT_00993	Scaffold_4	416064	417407	+	1343.0	NO	NO	NO	Fungal Zn(2)-Cys(6) binuclear cluster domain_pfam00172
+SLangusT_00994	Scaffold_4	418864	420552	-	1688.0	NO	NO	NO	Prion-inhibition and propagation_pfam14479
+SLangusT_00995	Scaffold_4	421329	422459	-	1130.0	NO	NO	NO	SURF4 family_pfam02077
+SLangusT_00996	Scaffold_4	423219	424629	-	1410.0	NO	NO	NO	WH2 motif_pfam02205
+SLangusT_00997	Scaffold_4	425042	426304	+	1262.0	NO	NO	NO	NO
+SLangusT_00998	Scaffold_4	426855	428571	+	1716.0	NO	NO	NO	NO
+SLangusT_00999	Scaffold_4	429405	430511	-	1106.0	NO	NO	NO	CS domain_pfam04969;CHORD_pfam04968

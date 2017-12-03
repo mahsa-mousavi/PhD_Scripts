@@ -1,0 +1,200 @@
+##gff-version 3
+##sequence-region   1 1 4109373
+##sequence-region   10 1 2419276
+##sequence-region   11 1 2359939
+##sequence-region   12 1 2352958
+##sequence-region   13 1 2257609
+##sequence-region   14 1 2138025
+##sequence-region   15 1 2027721
+##sequence-region   16 1 1969743
+##sequence-region   17 1 247158
+##sequence-region   18 1 208766
+##sequence-region   2 1 3341473
+##sequence-region   3 1 3226611
+##sequence-region   4 1 2468882
+##sequence-region   5 1 2959378
+##sequence-region   6 1 2725906
+##sequence-region   7 1 2652353
+##sequence-region   8 1 2617329
+##sequence-region   9 1 2547566
+#!genome-build Wageningen University;Syngenta ASM83294v1
+#!genome-version ASM83294v1
+#!genome-date 2015-02
+#!genome-build-accession GCA_000832945.1
+#!genebuild-last-updated 2016-12
+1	Wageningen University and Syngenta	chromosome	1	4109373	.	.	.	ID=chromosome:1;Alias=CP009805.1
+###
+1	ensembl	gene	5429	7175	.	+	.	ID=gene:Bcin01g00010;Name=Bcboa1;biotype=protein_coding;gene_id=Bcin01g00010;logic_name=webapollo_models
+1	ensembl	mRNA	5429	7175	.	+	.	ID=transcript:Bcin01g00010.1;Parent=gene:Bcin01g00010;biotype=protein_coding;transcript_id=Bcin01g00010.1
+1	ensembl	five_prime_UTR	5429	5625	.	+	.	Parent=transcript:Bcin01g00010.1
+1	ensembl	exon	5429	5730	.	+	.	Parent=transcript:Bcin01g00010.1;Name=Bcin01g00010-E1;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=Bcin01g00010-E1;rank=1;version=1
+1	ensembl	CDS	5626	5730	.	+	0	ID=CDS:Bcin01p00010.1;Parent=transcript:Bcin01g00010.1;protein_id=Bcin01p00010.1
+1	ensembl	exon	5796	6031	.	+	.	Parent=transcript:Bcin01g00010.1;Name=Bcin01g00010-E2;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=Bcin01g00010-E2;rank=2;version=1
+1	ensembl	CDS	5796	6031	.	+	0	ID=CDS:Bcin01p00010.1;Parent=transcript:Bcin01g00010.1;protein_id=Bcin01p00010.1
+1	ensembl	exon	6127	6473	.	+	.	Parent=transcript:Bcin01g00010.1;Name=Bcin01g00010-E4;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=Bcin01g00010-E4;rank=3;version=1
+1	ensembl	CDS	6127	6473	.	+	1	ID=CDS:Bcin01p00010.1;Parent=transcript:Bcin01g00010.1;protein_id=Bcin01p00010.1
+1	ensembl	CDS	6560	6804	.	+	2	ID=CDS:Bcin01p00010.1;Parent=transcript:Bcin01g00010.1;protein_id=Bcin01p00010.1
+1	ensembl	exon	6560	7175	.	+	.	Parent=transcript:Bcin01g00010.1;Name=Bcin01g00010-E3;constitutive=1;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Bcin01g00010-E3;rank=4;version=1
+1	ensembl	three_prime_UTR	6805	7175	.	+	.	Parent=transcript:Bcin01g00010.1
+###
+1	ensembl	gene	7209	9468	.	+	.	ID=gene:Bcin01g00020;Name=Bcboa2;biotype=protein_coding;gene_id=Bcin01g00020;logic_name=webapollo_models
+1	ensembl	mRNA	7209	9468	.	+	.	ID=transcript:Bcin01g00020.1;Parent=gene:Bcin01g00020;biotype=protein_coding;transcript_id=Bcin01g00020.1
+1	ensembl	five_prime_UTR	7209	7270	.	+	.	Parent=transcript:Bcin01g00020.1
+1	ensembl	exon	7209	7523	.	+	.	Parent=transcript:Bcin01g00020.1;Name=Bcin01g00020-E4;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Bcin01g00020-E4;rank=1;version=1
+1	ensembl	CDS	7271	7523	.	+	0	ID=CDS:Bcin01p00020.1;Parent=transcript:Bcin01g00020.1;protein_id=Bcin01p00020.1
+1	ensembl	exon	7631	7827	.	+	.	Parent=transcript:Bcin01g00020.1;Name=Bcin01g00020-E7;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Bcin01g00020-E7;rank=2;version=1
+1	ensembl	CDS	7631	7827	.	+	2	ID=CDS:Bcin01p00020.1;Parent=transcript:Bcin01g00020.1;protein_id=Bcin01p00020.1
+1	ensembl	exon	7881	8207	.	+	.	Parent=transcript:Bcin01g00020.1;Name=Bcin01g00020-E2;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Bcin01g00020-E2;rank=3;version=1
+1	ensembl	CDS	7881	8207	.	+	0	ID=CDS:Bcin01p00020.1;Parent=transcript:Bcin01g00020.1;protein_id=Bcin01p00020.1
+1	ensembl	exon	8265	8574	.	+	.	Parent=transcript:Bcin01g00020.1;Name=Bcin01g00020-E6;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=Bcin01g00020-E6;rank=4;version=1
+1	ensembl	CDS	8265	8574	.	+	0	ID=CDS:Bcin01p00020.1;Parent=transcript:Bcin01g00020.1;protein_id=Bcin01p00020.1
+1	ensembl	exon	8631	8729	.	+	.	Parent=transcript:Bcin01g00020.1;Name=Bcin01g00020-E3;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=Bcin01g00020-E3;rank=5;version=1
+1	ensembl	CDS	8631	8729	.	+	2	ID=CDS:Bcin01p00020.1;Parent=transcript:Bcin01g00020.1;protein_id=Bcin01p00020.1
+1	ensembl	exon	8780	9042	.	+	.	Parent=transcript:Bcin01g00020.1;Name=Bcin01g00020-E5;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Bcin01g00020-E5;rank=6;version=1
+1	ensembl	CDS	8780	9042	.	+	2	ID=CDS:Bcin01p00020.1;Parent=transcript:Bcin01g00020.1;protein_id=Bcin01p00020.1
+1	ensembl	CDS	9100	9240	.	+	0	ID=CDS:Bcin01p00020.1;Parent=transcript:Bcin01g00020.1;protein_id=Bcin01p00020.1
+1	ensembl	exon	9100	9468	.	+	.	Parent=transcript:Bcin01g00020.1;Name=Bcin01g00020-E1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Bcin01g00020-E1;rank=7;version=1
+1	ensembl	three_prime_UTR	9241	9468	.	+	.	Parent=transcript:Bcin01g00020.1
+###
+1	ensembl	gene	9772	11969	.	-	.	ID=gene:Bcin01g00030;Name=Bcboa3;biotype=protein_coding;gene_id=Bcin01g00030;logic_name=webapollo_models
+1	ensembl	mRNA	9772	11969	.	-	.	ID=transcript:Bcin01g00030.1;Parent=gene:Bcin01g00030;biotype=protein_coding;transcript_id=Bcin01g00030.1
+1	ensembl	three_prime_UTR	9772	10080	.	-	.	Parent=transcript:Bcin01g00030.1
+1	ensembl	exon	9772	10976	.	-	.	Parent=transcript:Bcin01g00030.1;Name=Bcin01g00030-E2;constitutive=1;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Bcin01g00030-E2;rank=6;version=1
+1	ensembl	CDS	10081	10976	.	-	2	ID=CDS:Bcin01p00030.1;Parent=transcript:Bcin01g00030.1;protein_id=Bcin01p00030.1
+1	ensembl	exon	11033	11078	.	-	.	Parent=transcript:Bcin01g00030.1;Name=Bcin01g00030-E3;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=Bcin01g00030-E3;rank=5;version=1
+1	ensembl	CDS	11033	11078	.	-	0	ID=CDS:Bcin01p00030.1;Parent=transcript:Bcin01g00030.1;protein_id=Bcin01p00030.1
+1	ensembl	exon	11138	11478	.	-	.	Parent=transcript:Bcin01g00030.1;Name=Bcin01g00030-E1;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Bcin01g00030-E1;rank=4;version=1
+1	ensembl	CDS	11138	11478	.	-	2	ID=CDS:Bcin01p00030.1;Parent=transcript:Bcin01g00030.1;protein_id=Bcin01p00030.1
+1	ensembl	exon	11533	11582	.	-	.	Parent=transcript:Bcin01g00030.1;Name=Bcin01g00030-E5;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=Bcin01g00030-E5;rank=3;version=1
+1	ensembl	CDS	11533	11582	.	-	1	ID=CDS:Bcin01p00030.1;Parent=transcript:Bcin01g00030.1;protein_id=Bcin01p00030.1
+1	ensembl	exon	11647	11759	.	-	.	Parent=transcript:Bcin01g00030.1;Name=Bcin01g00030-E6;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=Bcin01g00030-E6;rank=2;version=1
+1	ensembl	CDS	11647	11759	.	-	0	ID=CDS:Bcin01p00030.1;Parent=transcript:Bcin01g00030.1;protein_id=Bcin01p00030.1
+1	ensembl	CDS	11815	11889	.	-	0	ID=CDS:Bcin01p00030.1;Parent=transcript:Bcin01g00030.1;protein_id=Bcin01p00030.1
+1	ensembl	exon	11815	11969	.	-	.	Parent=transcript:Bcin01g00030.1;Name=Bcin01g00030-E4;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=Bcin01g00030-E4;rank=1;version=1
+1	ensembl	five_prime_UTR	11890	11969	.	-	.	Parent=transcript:Bcin01g00030.1
+###
+1	ensembl	gene	12154	14130	.	+	.	ID=gene:Bcin01g00040;Name=Bcboa4;biotype=protein_coding;gene_id=Bcin01g00040;logic_name=webapollo_models
+1	ensembl	mRNA	12154	14130	.	+	.	ID=transcript:Bcin01g00040.1;Parent=gene:Bcin01g00040;biotype=protein_coding;transcript_id=Bcin01g00040.1
+1	ensembl	five_prime_UTR	12154	12277	.	+	.	Parent=transcript:Bcin01g00040.1
+1	ensembl	exon	12154	12463	.	+	.	Parent=transcript:Bcin01g00040.1;Name=Bcin01g00040-E2;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=Bcin01g00040-E2;rank=1;version=1
+1	ensembl	CDS	12278	12463	.	+	0	ID=CDS:Bcin01p00040.1;Parent=transcript:Bcin01g00040.1;protein_id=Bcin01p00040.1
+1	ensembl	exon	12517	13188	.	+	.	Parent=transcript:Bcin01g00040.1;Name=Bcin01g00040-E1;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Bcin01g00040-E1;rank=2;version=1
+1	ensembl	CDS	12517	13188	.	+	0	ID=CDS:Bcin01p00040.1;Parent=transcript:Bcin01g00040.1;protein_id=Bcin01p00040.1
+1	ensembl	exon	13240	13246	.	+	.	Parent=transcript:Bcin01g00040.1;Name=Bcin01g00040-E3;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=Bcin01g00040-E3;rank=3;version=1
+1	ensembl	CDS	13240	13246	.	+	0	ID=CDS:Bcin01p00040.1;Parent=transcript:Bcin01g00040.1;protein_id=Bcin01p00040.1
+1	ensembl	exon	13307	13338	.	+	.	Parent=transcript:Bcin01g00040.1;Name=Bcin01g00040-E5;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Bcin01g00040-E5;rank=4;version=1
+1	ensembl	CDS	13307	13338	.	+	2	ID=CDS:Bcin01p00040.1;Parent=transcript:Bcin01g00040.1;protein_id=Bcin01p00040.1
+1	ensembl	exon	13401	13575	.	+	.	Parent=transcript:Bcin01g00040.1;Name=Bcin01g00040-E6;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=Bcin01g00040-E6;rank=5;version=1
+1	ensembl	CDS	13401	13575	.	+	0	ID=CDS:Bcin01p00040.1;Parent=transcript:Bcin01g00040.1;protein_id=Bcin01p00040.1
+1	ensembl	CDS	13633	14048	.	+	2	ID=CDS:Bcin01p00040.1;Parent=transcript:Bcin01g00040.1;protein_id=Bcin01p00040.1
+1	ensembl	exon	13633	14130	.	+	.	Parent=transcript:Bcin01g00040.1;Name=Bcin01g00040-E4;constitutive=1;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Bcin01g00040-E4;rank=6;version=1
+1	ensembl	three_prime_UTR	14049	14130	.	+	.	Parent=transcript:Bcin01g00040.1
+###
+1	ensembl	gene	14259	15636	.	-	.	ID=gene:Bcin01g00050;Name=Bcboa5;biotype=protein_coding;gene_id=Bcin01g00050;logic_name=webapollo_models
+1	ensembl	mRNA	14259	15636	.	-	.	ID=transcript:Bcin01g00050.1;Parent=gene:Bcin01g00050;biotype=protein_coding;transcript_id=Bcin01g00050.1
+1	ensembl	three_prime_UTR	14259	14416	.	-	.	Parent=transcript:Bcin01g00050.1
+1	ensembl	exon	14259	15636	.	-	.	Parent=transcript:Bcin01g00050.1;Name=Bcin01g00050-E1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Bcin01g00050-E1;rank=1;version=1
+1	ensembl	CDS	14417	15544	.	-	0	ID=CDS:Bcin01p00050.1;Parent=transcript:Bcin01g00050.1;protein_id=Bcin01p00050.1
+1	ensembl	five_prime_UTR	15545	15636	.	-	.	Parent=transcript:Bcin01g00050.1
+###
+1	ensembl	gene	15855	23759	.	+	.	ID=gene:Bcin01g00060;Name=Bcboa6;biotype=protein_coding;gene_id=Bcin01g00060;logic_name=webapollo_models
+9	ensembl	exon	2500736	2501080	.	-	.	Parent=transcript:Bcin09g07100.1;Name=Bcin09g07100-E2;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Bcin09g07100-E2;rank=2;version=1
+9	ensembl	CDS	2501039	2501080	.	-	0	ID=CDS:Bcin09p07100.1;Parent=transcript:Bcin09g07100.1;protein_id=Bcin09p07100.1
+9	ensembl	CDS	2501211	2501441	.	-	0	ID=CDS:Bcin09p07100.1;Parent=transcript:Bcin09g07100.1;protein_id=Bcin09p07100.1
+9	ensembl	exon	2501211	2501581	.	-	.	Parent=transcript:Bcin09g07100.1;Name=Bcin09g07100-E1;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=Bcin09g07100-E1;rank=1;version=1
+9	ensembl	five_prime_UTR	2501442	2501581	.	-	.	Parent=transcript:Bcin09g07100.1
+###
+9	ensembl	gene	2503113	2504582	.	+	.	ID=gene:Bcin09g07110;biotype=protein_coding;gene_id=Bcin09g07110;logic_name=webapollo_models
+9	ensembl	mRNA	2503113	2504582	.	+	.	ID=transcript:Bcin09g07110.2;Parent=gene:Bcin09g07110;biotype=protein_coding;transcript_id=Bcin09g07110.2
+9	ensembl	five_prime_UTR	2503113	2503338	.	+	.	Parent=transcript:Bcin09g07110.2
+9	ensembl	exon	2503113	2503432	.	+	.	Parent=transcript:Bcin09g07110.2;Name=Bcin09g07110-E2;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Bcin09g07110-E2;rank=1;version=1
+9	ensembl	CDS	2503339	2503432	.	+	0	ID=CDS:Bcin09p07110.2;Parent=transcript:Bcin09g07110.2;protein_id=Bcin09p07110.2
+9	ensembl	CDS	2503493	2504493	.	+	2	ID=CDS:Bcin09p07110.2;Parent=transcript:Bcin09g07110.2;protein_id=Bcin09p07110.2
+9	ensembl	exon	2503493	2504582	.	+	.	Parent=transcript:Bcin09g07110.2;Name=Bcin09g07110-E4;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Bcin09g07110-E4;rank=2;version=1
+9	ensembl	three_prime_UTR	2504494	2504582	.	+	.	Parent=transcript:Bcin09g07110.2
+9	ensembl	mRNA	2503113	2504582	.	+	.	ID=transcript:Bcin09g07110.1;Parent=gene:Bcin09g07110;biotype=protein_coding;transcript_id=Bcin09g07110.1
+9	ensembl	five_prime_UTR	2503113	2503338	.	+	.	Parent=transcript:Bcin09g07110.1
+9	ensembl	exon	2503113	2504582	.	+	.	Parent=transcript:Bcin09g07110.1;Name=Bcin09g07110-E1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Bcin09g07110-E1;rank=1;version=1
+9	ensembl	CDS	2503339	2504493	.	+	0	ID=CDS:Bcin09p07110.1;Parent=transcript:Bcin09g07110.1;protein_id=Bcin09p07110.1
+9	ensembl	three_prime_UTR	2504494	2504582	.	+	.	Parent=transcript:Bcin09g07110.1
+9	ensembl	mRNA	2503113	2504582	.	+	.	ID=transcript:Bcin09g07110.3;Parent=gene:Bcin09g07110;biotype=protein_coding;transcript_id=Bcin09g07110.3
+9	ensembl	exon	2503113	2503261	.	+	.	Parent=transcript:Bcin09g07110.3;Name=Bcin09g07110-E6;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Bcin09g07110-E6;rank=1;version=1
+9	ensembl	five_prime_UTR	2503113	2503261	.	+	.	Parent=transcript:Bcin09g07110.3
+9	ensembl	five_prime_UTR	2503389	2503419	.	+	.	Parent=transcript:Bcin09g07110.3
+9	ensembl	exon	2503389	2503432	.	+	.	Parent=transcript:Bcin09g07110.3;Name=Bcin09g07110-E5;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Bcin09g07110-E5;rank=2;version=1
+9	ensembl	CDS	2503420	2503432	.	+	0	ID=CDS:Bcin09p07110.3;Parent=transcript:Bcin09g07110.3;protein_id=Bcin09p07110.3
+9	ensembl	CDS	2503493	2504493	.	+	2	ID=CDS:Bcin09p07110.3;Parent=transcript:Bcin09g07110.3;protein_id=Bcin09p07110.3
+9	ensembl	exon	2503493	2504582	.	+	.	Parent=transcript:Bcin09g07110.3;Name=Bcin09g07110-E4;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Bcin09g07110-E4;rank=3;version=1
+9	ensembl	three_prime_UTR	2504494	2504582	.	+	.	Parent=transcript:Bcin09g07110.3
+9	ensembl	mRNA	2503113	2504582	.	+	.	ID=transcript:Bcin09g07110.4;Parent=gene:Bcin09g07110;biotype=protein_coding;transcript_id=Bcin09g07110.4
+9	ensembl	exon	2503113	2503261	.	+	.	Parent=transcript:Bcin09g07110.4;Name=Bcin09g07110-E6;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Bcin09g07110-E6;rank=1;version=1
+9	ensembl	five_prime_UTR	2503113	2503261	.	+	.	Parent=transcript:Bcin09g07110.4
+9	ensembl	five_prime_UTR	2503389	2503419	.	+	.	Parent=transcript:Bcin09g07110.4
+9	ensembl	exon	2503389	2504582	.	+	.	Parent=transcript:Bcin09g07110.4;Name=Bcin09g07110-E3;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Bcin09g07110-E3;rank=2;version=1
+9	ensembl	CDS	2503420	2504493	.	+	0	ID=CDS:Bcin09p07110.4;Parent=transcript:Bcin09g07110.4;protein_id=Bcin09p07110.4
+9	ensembl	three_prime_UTR	2504494	2504582	.	+	.	Parent=transcript:Bcin09g07110.4
+###
+9	ensembl	gene	2509761	2511449	.	+	.	ID=gene:Bcin09g07120;biotype=protein_coding;gene_id=Bcin09g07120;logic_name=webapollo_models
+9	ensembl	mRNA	2509761	2511449	.	+	.	ID=transcript:Bcin09g07120.1;Parent=gene:Bcin09g07120;biotype=protein_coding;transcript_id=Bcin09g07120.1
+9	ensembl	five_prime_UTR	2509761	2509882	.	+	.	Parent=transcript:Bcin09g07120.1
+9	ensembl	exon	2509761	2511449	.	+	.	Parent=transcript:Bcin09g07120.1;Name=Bcin09g07120-E1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Bcin09g07120-E1;rank=1;version=1
+9	ensembl	CDS	2509883	2511217	.	+	0	ID=CDS:Bcin09p07120.1;Parent=transcript:Bcin09g07120.1;protein_id=Bcin09p07120.1
+9	ensembl	three_prime_UTR	2511218	2511449	.	+	.	Parent=transcript:Bcin09g07120.1
+###
+9	ensembl	gene	2539836	2541718	.	-	.	ID=gene:Bcin09g07130;biotype=protein_coding;gene_id=Bcin09g07130;logic_name=webapollo_models
+9	ensembl	mRNA	2539836	2541718	.	-	.	ID=transcript:Bcin09g07130.1;Parent=gene:Bcin09g07130;biotype=protein_coding;transcript_id=Bcin09g07130.1
+9	ensembl	three_prime_UTR	2539836	2540084	.	-	.	Parent=transcript:Bcin09g07130.1
+9	ensembl	exon	2539836	2540231	.	-	.	Parent=transcript:Bcin09g07130.1;Name=Bcin09g07130-E3;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Bcin09g07130-E3;rank=6;version=1
+9	ensembl	CDS	2540085	2540231	.	-	0	ID=CDS:Bcin09p07130.1;Parent=transcript:Bcin09g07130.1;protein_id=Bcin09p07130.1
+9	ensembl	exon	2540281	2540491	.	-	.	Parent=transcript:Bcin09g07130.1;Name=Bcin09g07130-E5;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=Bcin09g07130-E5;rank=5;version=1
+9	ensembl	CDS	2540281	2540491	.	-	1	ID=CDS:Bcin09p07130.1;Parent=transcript:Bcin09g07130.1;protein_id=Bcin09p07130.1
+9	ensembl	exon	2540541	2540898	.	-	.	Parent=transcript:Bcin09g07130.1;Name=Bcin09g07130-E1;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=Bcin09g07130-E1;rank=4;version=1
+9	ensembl	CDS	2540541	2540898	.	-	2	ID=CDS:Bcin09p07130.1;Parent=transcript:Bcin09g07130.1;protein_id=Bcin09p07130.1
+9	ensembl	exon	2540951	2541040	.	-	.	Parent=transcript:Bcin09g07130.1;Name=Bcin09g07130-E2;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=Bcin09g07130-E2;rank=3;version=1
+9	ensembl	CDS	2540951	2541040	.	-	2	ID=CDS:Bcin09p07130.1;Parent=transcript:Bcin09g07130.1;protein_id=Bcin09p07130.1
+9	ensembl	exon	2541089	2541406	.	-	.	Parent=transcript:Bcin09g07130.1;Name=Bcin09g07130-E6;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=Bcin09g07130-E6;rank=2;version=1
+9	ensembl	CDS	2541089	2541406	.	-	2	ID=CDS:Bcin09p07130.1;Parent=transcript:Bcin09g07130.1;protein_id=Bcin09p07130.1
+9	ensembl	CDS	2541461	2541479	.	-	0	ID=CDS:Bcin09p07130.1;Parent=transcript:Bcin09g07130.1;protein_id=Bcin09p07130.1
+9	ensembl	exon	2541461	2541718	.	-	.	Parent=transcript:Bcin09g07130.1;Name=Bcin09g07130-E4;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Bcin09g07130-E4;rank=1;version=1
+9	ensembl	five_prime_UTR	2541480	2541718	.	-	.	Parent=transcript:Bcin09g07130.1
+###
+9	ensembl	gene	2544946	2546931	.	+	.	ID=gene:Bcin09g07140;biotype=protein_coding;gene_id=Bcin09g07140;logic_name=webapollo_models
+9	ensembl	mRNA	2544946	2546931	.	+	.	ID=transcript:Bcin09g07140.2;Parent=gene:Bcin09g07140;biotype=protein_coding;transcript_id=Bcin09g07140.2
+9	ensembl	exon	2544946	2545347	.	+	.	Parent=transcript:Bcin09g07140.2;Name=Bcin09g07140-E1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Bcin09g07140-E1;rank=1;version=1
+9	ensembl	five_prime_UTR	2544946	2545347	.	+	.	Parent=transcript:Bcin09g07140.2
+9	ensembl	five_prime_UTR	2545402	2545511	.	+	.	Parent=transcript:Bcin09g07140.2
+9	ensembl	exon	2545402	2545545	.	+	.	Parent=transcript:Bcin09g07140.2;Name=Bcin09g07140-E3;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Bcin09g07140-E3;rank=2;version=1
+9	ensembl	CDS	2545512	2545545	.	+	0	ID=CDS:Bcin09p07140.2;Parent=transcript:Bcin09g07140.2;protein_id=Bcin09p07140.2
+9	ensembl	exon	2545660	2545820	.	+	.	Parent=transcript:Bcin09g07140.2;Name=Bcin09g07140-E4;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=Bcin09g07140-E4;rank=3;version=1
+9	ensembl	CDS	2545660	2545820	.	+	2	ID=CDS:Bcin09p07140.2;Parent=transcript:Bcin09g07140.2;protein_id=Bcin09p07140.2
+9	ensembl	exon	2545871	2545970	.	+	.	Parent=transcript:Bcin09g07140.2;Name=Bcin09g07140-E7;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=Bcin09g07140-E7;rank=4;version=1
+9	ensembl	CDS	2545871	2545970	.	+	0	ID=CDS:Bcin09p07140.2;Parent=transcript:Bcin09g07140.2;protein_id=Bcin09p07140.2
+9	ensembl	exon	2546013	2546125	.	+	.	Parent=transcript:Bcin09g07140.2;Name=Bcin09g07140-E10;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Bcin09g07140-E10;rank=5;version=1
+9	ensembl	CDS	2546013	2546125	.	+	2	ID=CDS:Bcin09p07140.2;Parent=transcript:Bcin09g07140.2;protein_id=Bcin09p07140.2
+9	ensembl	exon	2546176	2546391	.	+	.	Parent=transcript:Bcin09g07140.2;Name=Bcin09g07140-E9;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Bcin09g07140-E9;rank=6;version=1
+9	ensembl	CDS	2546176	2546391	.	+	0	ID=CDS:Bcin09p07140.2;Parent=transcript:Bcin09g07140.2;protein_id=Bcin09p07140.2
+9	ensembl	exon	2546459	2546569	.	+	.	Parent=transcript:Bcin09g07140.2;Name=Bcin09g07140-E5;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Bcin09g07140-E5;rank=7;version=1
+9	ensembl	CDS	2546459	2546569	.	+	0	ID=CDS:Bcin09p07140.2;Parent=transcript:Bcin09g07140.2;protein_id=Bcin09p07140.2
+9	ensembl	CDS	2546626	2546772	.	+	0	ID=CDS:Bcin09p07140.2;Parent=transcript:Bcin09g07140.2;protein_id=Bcin09p07140.2
+9	ensembl	exon	2546626	2546931	.	+	.	Parent=transcript:Bcin09g07140.2;Name=Bcin09g07140-E6;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Bcin09g07140-E6;rank=8;version=1
+9	ensembl	three_prime_UTR	2546773	2546931	.	+	.	Parent=transcript:Bcin09g07140.2
+9	ensembl	mRNA	2544946	2546931	.	+	.	ID=transcript:Bcin09g07140.1;Parent=gene:Bcin09g07140;biotype=protein_coding;transcript_id=Bcin09g07140.1
+9	ensembl	five_prime_UTR	2544946	2545204	.	+	.	Parent=transcript:Bcin09g07140.1
+9	ensembl	exon	2544946	2545347	.	+	.	Parent=transcript:Bcin09g07140.1;Name=Bcin09g07140-E11;constitutive=0;ensembl_end_phase=2;ensembl_phase=-1;exon_id=Bcin09g07140-E11;rank=1;version=1
+9	ensembl	CDS	2545205	2545347	.	+	0	ID=CDS:Bcin09p07140.1;Parent=transcript:Bcin09g07140.1;protein_id=Bcin09p07140.1
+9	ensembl	exon	2545402	2545545	.	+	.	Parent=transcript:Bcin09g07140.1;Name=Bcin09g07140-E8;constitutive=0;ensembl_end_phase=2;ensembl_phase=2;exon_id=Bcin09g07140-E8;rank=2;version=1
+9	ensembl	CDS	2545402	2545545	.	+	1	ID=CDS:Bcin09p07140.1;Parent=transcript:Bcin09g07140.1;protein_id=Bcin09p07140.1
+9	ensembl	exon	2545607	2545820	.	+	.	Parent=transcript:Bcin09g07140.1;Name=Bcin09g07140-E2;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=Bcin09g07140-E2;rank=3;version=1
+9	ensembl	CDS	2545607	2545820	.	+	1	ID=CDS:Bcin09p07140.1;Parent=transcript:Bcin09g07140.1;protein_id=Bcin09p07140.1
+9	ensembl	exon	2545871	2545970	.	+	.	Parent=transcript:Bcin09g07140.1;Name=Bcin09g07140-E7;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=Bcin09g07140-E7;rank=4;version=1
+9	ensembl	CDS	2545871	2545970	.	+	0	ID=CDS:Bcin09p07140.1;Parent=transcript:Bcin09g07140.1;protein_id=Bcin09p07140.1
+9	ensembl	exon	2546013	2546125	.	+	.	Parent=transcript:Bcin09g07140.1;Name=Bcin09g07140-E10;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Bcin09g07140-E10;rank=5;version=1
+9	ensembl	CDS	2546013	2546125	.	+	2	ID=CDS:Bcin09p07140.1;Parent=transcript:Bcin09g07140.1;protein_id=Bcin09p07140.1
+9	ensembl	exon	2546176	2546391	.	+	.	Parent=transcript:Bcin09g07140.1;Name=Bcin09g07140-E9;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Bcin09g07140-E9;rank=6;version=1
+9	ensembl	CDS	2546176	2546391	.	+	0	ID=CDS:Bcin09p07140.1;Parent=transcript:Bcin09g07140.1;protein_id=Bcin09p07140.1
+9	ensembl	exon	2546459	2546569	.	+	.	Parent=transcript:Bcin09g07140.1;Name=Bcin09g07140-E5;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Bcin09g07140-E5;rank=7;version=1
+9	ensembl	CDS	2546459	2546569	.	+	0	ID=CDS:Bcin09p07140.1;Parent=transcript:Bcin09g07140.1;protein_id=Bcin09p07140.1
+9	ensembl	CDS	2546626	2546772	.	+	0	ID=CDS:Bcin09p07140.1;Parent=transcript:Bcin09g07140.1;protein_id=Bcin09p07140.1
+9	ensembl	exon	2546626	2546931	.	+	.	Parent=transcript:Bcin09g07140.1;Name=Bcin09g07140-E6;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Bcin09g07140-E6;rank=8;version=1
+9	ensembl	three_prime_UTR	2546773	2546931	.	+	.	Parent=transcript:Bcin09g07140.1
+###
